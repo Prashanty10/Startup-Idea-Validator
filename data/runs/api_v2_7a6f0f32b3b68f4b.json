@@ -1,0 +1,1256 @@
+{
+  "startup_idea": "A vertical B2B SaaS platform specifically built for residential solar installations in Tier-2 Indian cities to manage site surveys, inventory, and government subsidy filings.",
+  "target_country": "India",
+  "target_region": "Gujarat",
+  "idea_analysis": {
+    "startup_name": "Not specified",
+    "one_line_description": "Vertical B2B SaaS platform for residential solar installations in Tier-2 Indian cities to manage site surveys, inventory, and government subsidy filings.",
+    "problem_statement": "Residential solar installers in Tier-2 Indian cities lack integrated tools to efficiently conduct site surveys, track inventory, and navigate complex government subsidy processes.",
+    "proposed_solution": "A cloud-based SaaS platform that streamlines site survey workflows, inventory management, and subsidy filing for solar installation companies.",
+    "target_industry": "Solar Energy / Renewable Energy",
+    "target_customer": "Residential solar installation companies",
+    "primary_user": "Installation project managers / field technicians",
+    "buyer": "Operations managers / CFOs of solar installation firms",
+    "beneficiary": "End customers (residential homeowners) who receive solar installations",
+    "geography": "Tier-2 cities in India",
+    "primary_category": "SaaS",
+    "secondary_categories": [
+      "B2B",
+      "Platform"
+    ],
+    "business_model": "Subscription",
+    "revenue_model": "Monthly/annual subscription fees based on number of users or installations managed",
+    "key_value_proposition": "Reduces time and errors in site surveys, inventory tracking, and subsidy filing, enabling installers to focus on installations and increase profitability.",
+    "acquisition_channels": [
+      "Industry trade shows",
+      "Digital marketing targeting solar installers",
+      "Partnerships with solar equipment suppliers"
+    ],
+    "key_assumptions": [
+      "Solar installers in Tier-2 cities are willing to adopt cloud-based tools",
+      "Government subsidy processes can be digitized and integrated",
+      "The platform can scale to handle multiple cities' data"
+    ],
+    "critical_unknowns": [
+      "What is the exact cost of government subsidy filing per installer?",
+      "How many installers are currently using manual processes?",
+      "What regulatory changes might affect subsidy eligibility?"
+    ]
+  },
+  "research_plan": {
+    "business_model_type": "B2B SaaS",
+    "required_information": [
+      "subscription pricing strategy",
+      "customer acquisition cost (CAC)",
+      "customer lifetime value (LTV)",
+      "churn rate",
+      "gross margin",
+      "average revenue per user (ARPU)",
+      "sales cycle length"
+    ],
+    "key_questions_to_answer": [
+      "What is the total addressable market (TAM) for residential solar installers in Tier-2 cities of Gujarat?",
+      "What subscription price can we set to remain competitive while covering CAC and achieving target LTV?",
+      "What is the expected churn rate for our SaaS platform in this niche?",
+      "What is the cost to acquire a new customer and how does it compare to LTV?",
+      "At what point will the business reach break-even and profitability?"
+    ],
+    "market_queries": [
+      "size of residential solar installation market in Gujarat Tier-2 cities",
+      "number of residential solar installers in Gujarat",
+      "government subsidy uptake for residential solar in Gujarat"
+    ],
+    "competitor_queries": [
+      "B2B SaaS platforms for solar installation management in India",
+      "software solutions for solar site survey and inventory management India",
+      "manual processes for solar installation companies in Tier-2 Indian cities"
+    ],
+    "pricing_queries": [
+      "subscription pricing models for solar installation SaaS in India",
+      "average monthly subscription cost for solar installation management software"
+    ],
+    "regulatory_queries": [
+      "government regulations for solar installation software in India",
+      "data protection compliance requirements for SaaS in Gujarat"
+    ]
+  },
+  "idea_valid": true,
+  "idea_quality_message": "",
+  "market_research": {
+    "market_demand": "High demand for residential rooftop solar in Gujarat, evidenced by rapid capacity growth and a large number of installers.",
+    "industry_trends": [
+      "Rapid capacity growth (85MW to 1,227MW FY2019-2022)",
+      "High CAGR of 143% in Gujarat",
+      "Strong policy support via SURYA-Gujarat",
+      "Increasing number of installers and vendors"
+    ],
+    "target_market": "Residential solar installation companies operating in Tier-2 cities of Gujarat, India.",
+    "growth_drivers": [
+      "Government subsidy schemes (SURYA-Gujarat)",
+      "Policy push and cost savings demand",
+      "Increasing awareness among consumers",
+      "Availability of local installers"
+    ],
+    "customer_problems": [
+      "Complex government subsidy filing processes",
+      "Fragmented site survey and inventory management",
+      "Time-consuming manual workflows",
+      "Risk of errors in subsidy applications"
+    ],
+    "opportunities": [
+      "Digital platform to streamline surveys and inventory",
+      "Automated subsidy filing",
+      "Subscription-based SaaS model",
+      "Potential to capture large installer base"
+    ],
+    "evidence": [
+      {
+        "claim": "Gujarat residential rooftop solar capacity grew from 85MW (FY2019) to 1,227MW (FY2022).",
+        "source": "JMK Research PDF"
+      },
+      {
+        "claim": "CAGR of 143% in Gujarat residential rooftop solar market between FY2019 and FY2022.",
+        "source": "JMK Research PDF"
+      },
+      {
+        "claim": "GUVNL is the nodal agency for SURYA-Gujarat, with DISCOMs implementing the scheme and disbursing subsidies.",
+        "source": "JMK Research PDF"
+      },
+      {
+        "claim": "Residential rooftop solar market expected to reach 3,214MW cumulative installed capacity by FY2023.",
+        "source": "IEEFA report"
+      },
+      {
+        "claim": "Gujarat is one of the three most favorable states for residential rooftop solar installations.",
+        "source": "IEEFA report"
+      },
+      {
+        "claim": "684 solar PV installation companies are listed in Gujarat.",
+        "source": "Enfsolar directory"
+      },
+      {
+        "claim": "110 companies are listed in the Gujarat Solar Vendor List 2025 PDF.",
+        "source": "Scribd PDF"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "direct_competitors": [
+      {
+        "name": "Solar CRM Pro",
+        "competitor_type": "DIRECT",
+        "product": "Solar CRM Pro – a B2B SaaS platform for Indian solar installers offering lead capture, site surveys, GST quotations, and subsidy auto-fill",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Residential solar installation companies in India",
+        "strengths": [
+          "Built specifically for Indian solar installer workflow",
+          "Automates subsidy application (PM Surya Ghar)",
+          "Handles GST quotations",
+          "Supports lead capture and site surveys"
+        ],
+        "weaknesses": [
+          "No integrated inventory management",
+          "Limited focus on Tier‑2 city nuances",
+          "Pricing not disclosed"
+        ],
+        "differentiation": "Our platform targets Tier‑2 cities in Gujarat, integrates inventory management, and streamlines government subsidy filings beyond what Solar CRM Pro offers",
+        "evidence": [
+          "https://solarcrm.in"
+        ]
+      }
+    ],
+    "indirect_competitors": [
+      {
+        "name": "AntMyERP",
+        "competitor_type": "INDIRECT",
+        "product": "Field service software with mobile-friendly interface for solar service industry",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Solar service companies",
+        "strengths": [
+          "Real‑time project details",
+          "Mobile accessibility",
+          "Inventory management features"
+        ],
+        "weaknesses": [
+          "Generic ERP, not tailored to residential solar",
+          "No subsidy filing automation",
+          "Limited lead capture"
+        ],
+        "differentiation": "Our solution focuses on residential solar in Tier‑2 cities, includes subsidy filing and a dedicated site survey workflow",
+        "evidence": [
+          "https://antmyerp.com/en/industry/solar-service-industry"
+        ]
+      },
+      {
+        "name": "Suryahub",
+        "competitor_type": "INDIRECT",
+        "product": "Solar inventory management software for tracking panels, inverters, BOS items, and purchase orders",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Solar installation companies",
+        "strengths": [
+          "Real‑time inventory tracking",
+          "Purchase order management",
+          "Integration with procurement"
+        ],
+        "weaknesses": [
+          "No field service or survey management",
+          "No subsidy filing features",
+          "Not tailored to Tier‑2 city requirements"
+        ],
+        "differentiation": "Our platform combines inventory, field service, and subsidy filing in a single solution for Tier‑2 residential installers",
+        "evidence": [
+          "https://suryahub.com/platform/procurement-inventory"
+        ]
+      }
+    ],
+    "substitutes": [
+      {
+        "name": "Manual spreadsheets and paper forms",
+        "competitor_type": "SUBSTITUTE",
+        "product": "Traditional manual processes for site surveys, inventory tracking, and subsidy filings",
+        "pricing": "None",
+        "target_customer": "Residential solar installation companies",
+        "strengths": [
+          "No upfront cost",
+          "Full control over data",
+          "No learning curve"
+        ],
+        "weaknesses": [
+          "Prone to errors",
+          "Time‑consuming",
+          "Hard to scale",
+          "No real‑time updates"
+        ],
+        "differentiation": "Our SaaS platform automates and integrates all steps, reducing errors and saving time",
+        "evidence": [
+          "Industry process descriptions in provided blog posts"
+        ]
+      }
+    ],
+    "competitor_list": [
+      {
+        "name": "Solar CRM Pro",
+        "competitor_type": "DIRECT",
+        "product": "",
+        "pricing": "",
+        "target_customer": "",
+        "strengths": [],
+        "weaknesses": [],
+        "differentiation": "",
+        "evidence": []
+      },
+      {
+        "name": "AntMyERP",
+        "competitor_type": "INDIRECT",
+        "product": "",
+        "pricing": "",
+        "target_customer": "",
+        "strengths": [],
+        "weaknesses": [],
+        "differentiation": "",
+        "evidence": []
+      },
+      {
+        "name": "Suryahub",
+        "competitor_type": "INDIRECT",
+        "product": "",
+        "pricing": "",
+        "target_customer": "",
+        "strengths": [],
+        "weaknesses": [],
+        "differentiation": "",
+        "evidence": []
+      },
+      {
+        "name": "Manual spreadsheets and paper forms",
+        "competitor_type": "SUBSTITUTE",
+        "product": "",
+        "pricing": "",
+        "target_customer": "",
+        "strengths": [],
+        "weaknesses": [],
+        "differentiation": "",
+        "evidence": []
+      }
+    ],
+    "market_gaps": [
+      "Lack of integrated platform for Tier‑2 city residential solar installers",
+      "No automated subsidy filing tailored to Gujarat government schemes",
+      "Limited inventory management combined with field service",
+      "Insufficient mobile accessibility for technicians in Tier‑2 regions"
+    ],
+    "competitive_risks": [
+      "Established competitors may expand features to cover Tier‑2 cities",
+      "Price competition if competitors disclose lower pricing",
+      "Adoption resistance due to existing manual processes",
+      "Potential regulatory changes affecting subsidy workflows"
+    ],
+    "differentiation_clarity": "Moderate"
+  },
+  "persona_analysis": {
+    "personas": [
+      {
+        "name": "Rohan Patel",
+        "role": "Operations Manager",
+        "business_type": "Small residential solar installation company",
+        "goals": [
+          "Streamline subsidy filing",
+          "Reduce manual inventory errors"
+        ],
+        "pain_points": [
+          "Complex government subsidy filing",
+          "Time‑consuming manual workflows"
+        ],
+        "needs": [
+          "Automated subsidy filing",
+          "Integrated inventory management"
+        ],
+        "willingness_to_pay": "Will pay up to ₹15,000/month for a platform that cuts filing time by 70%.",
+        "willingness_to_pay_confidence": ""
+      },
+      {
+        "name": "Meera Desai",
+        "role": "Field Service Lead",
+        "business_type": "Medium‑sized residential solar installation company",
+        "goals": [
+          "Improve site survey accuracy",
+          "Increase project turnaround"
+        ],
+        "pain_points": [
+          "Fragmented site survey tools",
+          "Risk of errors in subsidy applications"
+        ],
+        "needs": [
+          "Unified survey and inventory app",
+          "Real‑time error‑checking"
+        ],
+        "willingness_to_pay": "Open to ₹20,000/month if it guarantees 90% fewer errors.",
+        "willingness_to_pay_confidence": ""
+      }
+    ]
+  },
+  "pricing_analysis": {
+    "pricing_model": "Subscription",
+    "recommended_price": "₹12,000/month",
+    "pricing_tiers": [
+      {
+        "name": "Basic",
+        "price": "₹8,000/month",
+        "target_customer": "Small residential solar installers",
+        "included_features": [
+          "Site survey management",
+          "Inventory tracking",
+          "Basic subsidy filing support"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "₹12,000/month",
+        "target_customer": "Medium residential solar installers",
+        "included_features": [
+          "All Basic features",
+          "Advanced inventory analytics",
+          "Automated subsidy filing",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "₹18,000/month",
+        "target_customer": "Large residential solar installers",
+        "included_features": [
+          "All Standard features",
+          "Custom reporting",
+          "Dedicated account manager",
+          "Enterprise integration"
+        ]
+      }
+    ],
+    "pricing_rationale": [
+      "Aligns with willingness-to-pay of key roles, offering incremental value at each tier",
+      "Provides clear differentiation to justify higher price points"
+    ],
+    "pricing_risks": [
+      "Potential price sensitivity in Tier-2 market",
+      "Limited data on long-term retention at higher tiers"
+    ],
+    "pricing_confidence": "MEDIUM",
+    "validation_experiment": "Conduct a 3‑month A/B test with 30 customers, offering a 10% discount on the Standard tier to measure price elasticity and churn impact"
+  },
+  "evidence_ledger": {
+    "supported_claims": [
+      {
+        "claim": "Gujarat residential rooftop solar capacity grew from 85MW (FY2019) to 1,227MW (FY2022).",
+        "status": "SUPPORTED",
+        "evidence": "Capacity growth data cited in market research findings.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Verify with official Gujarat government energy reports."
+      },
+      {
+        "claim": "CAGR of 143% in Gujarat residential rooftop solar market between FY2019 and FY2022.",
+        "status": "SUPPORTED",
+        "evidence": "CAGR figure listed in evidence section.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Cross‑check with industry analysis reports."
+      },
+      {
+        "claim": "684 solar PV installation companies are listed in Gujarat.",
+        "status": "SUPPORTED",
+        "evidence": "Number of companies listed in evidence.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Confirm via Gujarat Solar Vendor List 2025 PDF."
+      },
+      {
+        "claim": "110 companies are listed in the Gujarat Solar Vendor List 2025 PDF.",
+        "status": "SUPPORTED",
+        "evidence": "Vendor list count provided.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Download and count entries in the PDF."
+      },
+      {
+        "claim": "GUVNL is the nodal agency for SURYA‑Gujarat, with DISCOMs implementing the scheme and disbursing subsidies.",
+        "status": "SUPPORTED",
+        "evidence": "Agency role stated in evidence.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Check GUVNL official website for scheme details."
+      }
+    ],
+    "inferred_claims": [
+      {
+        "claim": "High demand for residential rooftop solar in Gujarat implies a sizable potential user base for the platform.",
+        "status": "INFERRED",
+        "evidence": "Rapid capacity growth and high CAGR indicate market expansion.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Survey installers to estimate adoption interest."
+      },
+      {
+        "claim": "Complex subsidy filing processes create a need for automation and integration.",
+        "status": "INFERRED",
+        "evidence": "Problem list cites complex filing processes.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Interview installers about current filing steps."
+      },
+      {
+        "claim": "Fragmented site survey and inventory management leads to inefficiencies that a unified platform can address.",
+        "status": "INFERRED",
+        "evidence": "Problem list mentions fragmented workflows.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Map current survey and inventory processes."
+      },
+      {
+        "claim": "Time‑consuming manual workflows reduce productivity for installers.",
+        "status": "INFERRED",
+        "evidence": "Problem list notes time‑consuming manual workflows.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Time study of current manual processes."
+      },
+      {
+        "claim": "Risk of errors in subsidy applications can be mitigated by automated filing.",
+        "status": "INFERRED",
+        "evidence": "Problem list cites risk of errors.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Audit error rates in existing applications."
+      }
+    ],
+    "assumptions": [
+      {
+        "claim": "Solar installers in Tier‑2 cities are willing to adopt cloud‑based tools.",
+        "status": "ASSUMPTION",
+        "evidence": "Founder assumption list.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Conduct willingness‑to‑adopt survey among Tier‑2 installers."
+      },
+      {
+        "claim": "Government subsidy processes can be digitized and integrated into a SaaS platform.",
+        "status": "ASSUMPTION",
+        "evidence": "Founder assumption list.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Pilot integration with GUVNL API or manual data capture."
+      },
+      {
+        "claim": "The platform can scale to handle multiple cities' data.",
+        "status": "ASSUMPTION",
+        "evidence": "Founder assumption list.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Stress‑test architecture with simulated multi‑city data loads."
+      },
+      {
+        "claim": "Installers will pay up to ₹15,000/month for a platform that cuts filing time by 70%.",
+        "status": "ASSUMPTION",
+        "evidence": "Pricing willingness claim.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Run price sensitivity survey with target installers."
+      },
+      {
+        "claim": "Installers will pay up to ₹20,000/month if it guarantees 90% fewer errors.",
+        "status": "ASSUMPTION",
+        "evidence": "Pricing willingness claim.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Validate error‑reduction claims through pilot testing."
+      }
+    ],
+    "unknowns": [
+      {
+        "claim": "Actual number of Tier‑2 city installers currently using digital tools.",
+        "status": "UNKNOWN",
+        "evidence": "Missing data.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Collect usage statistics via industry surveys."
+      },
+      {
+        "claim": "Average time spent on subsidy filing by installers.",
+        "status": "UNKNOWN",
+        "evidence": "Missing data.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Time study of current filing process."
+      },
+      {
+        "claim": "Current error rate in subsidy applications.",
+        "status": "UNKNOWN",
+        "evidence": "Missing data.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Audit a sample of past subsidy applications."
+      },
+      {
+        "claim": "Competitive pricing details of existing solutions.",
+        "status": "UNKNOWN",
+        "evidence": "Missing data.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Competitive pricing analysis of listed competitors."
+      },
+      {
+        "claim": "Timeline and impact of potential regulatory changes affecting subsidy workflows.",
+        "status": "UNKNOWN",
+        "evidence": "Missing data.",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "LOW",
+        "validation_action": "Monitor policy announcements and consult legal experts."
+      }
+    ],
+    "overall_confidence": "MEDIUM"
+  },
+  "unit_economics": {
+    "is_applicable": true,
+    "business_model_type": "SaaS",
+    "revenue_per_customer": "₹12,000/month",
+    "variable_cost": "Unknown — requires validation",
+    "contribution_margin": "Unknown — requires validation",
+    "gross_margin_estimate": "70-80% — industry benchmark",
+    "estimated_cac": "Unknown — requires validation",
+    "estimated_ltv": "Unknown — requires validation",
+    "ltv_cac_ratio": "Unknown — requires validation",
+    "cac_payback_months": "Unknown — requires validation",
+    "aov_estimate": "₹12,000/month",
+    "repeat_purchase_rate": "N/A",
+    "unproven_financial_assumptions": [
+      "Average subscription length and churn rate of residential solar installers",
+      "Cost of customer support and onboarding per customer",
+      "Infrastructure and hosting cost per active user",
+      "Revenue impact of tiered pricing on customer mix"
+    ],
+    "how_to_validate_unit_economics": [
+      "Track marketing spend and new customer acquisition to calculate CAC; record the number of new paying customers per month and divide total spend by that number.",
+      "Calculate gross margin by subtracting variable costs (e.g., hosting, support, transaction fees) from revenue per customer; aggregate over a cohort to estimate contribution margin.",
+      "Estimate LTV by multiplying average revenue per user (ARPU) by the average customer lifespan (1/churn rate) and subtracting acquisition and ongoing support costs; compare to CAC to derive LTV/CAC ratio and payback period."
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Specialized focus on Tier-2 Gujarat installers",
+      "Integrated survey, inventory, and subsidy workflow",
+      "Mobile-first design for field technicians"
+    ],
+    "weaknesses": [
+      "Limited brand awareness",
+      "Resource constraints for rapid scaling",
+      "Dependence on government subsidy policies"
+    ],
+    "opportunities": [
+      "High rooftop solar adoption in Gujarat",
+      "Growing installer ecosystem in Tier-2 cities",
+      "Potential to expand to other Indian states"
+    ],
+    "threats": [
+      "Competitors adding Tier-2 features",
+      "Price wars from established SaaS players",
+      "Regulatory changes affecting subsidy processes"
+    ],
+    "structured_strengths": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_weaknesses": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_opportunities": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_threats": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ]
+  },
+  "mvp_analysis": {
+    "core_features": [
+      {
+        "name": "Automated subsidy filing",
+        "priority": 1
+      },
+      {
+        "name": "Site survey workflow",
+        "priority": 2
+      },
+      {
+        "name": "Inventory management",
+        "priority": 3
+      },
+      {
+        "name": "Mobile field app",
+        "priority": 4
+      }
+    ],
+    "future_features": [
+      {
+        "name": "Real-time error-checking",
+        "priority": 1
+      },
+      {
+        "name": "Analytics dashboard",
+        "priority": 2
+      },
+      {
+        "name": "Government API integration",
+        "priority": 3
+      }
+    ],
+    "excluded_features": [
+      {
+        "name": "AI recommendation engine (avoid)",
+        "priority": 1
+      },
+      {
+        "name": "Payment gateway integration (avoid)",
+        "priority": 2
+      }
+    ],
+    "development_priority": [
+      {
+        "name": "Automated subsidy filing",
+        "priority": 1
+      },
+      {
+        "name": "Site survey workflow",
+        "priority": 2
+      },
+      {
+        "name": "Inventory management",
+        "priority": 3
+      },
+      {
+        "name": "Mobile field app",
+        "priority": 4
+      },
+      {
+        "name": "Real-time error-checking",
+        "priority": 5
+      }
+    ],
+    "mvp_rationale": [
+      {
+        "reason": "Validates the assumption that automated subsidy filing reduces manual effort and errors"
+      },
+      {
+        "reason": "Tests field survey integration and mobile usability in Tier‑2 city context"
+      },
+      {
+        "reason": "Provides early revenue and customer feedback loop with subscription pricing"
+      }
+    ]
+  },
+  "risk_failure_analysis": {
+    "critical_unknowns": [
+      {
+        "unknown": "Actual number of Tier-2 city installers currently using digital tools",
+        "category": "Market",
+        "impact": "HIGH",
+        "uncertainty": "HIGH",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Conduct a survey of installers in 10 Tier-2 cities to count digital tool usage"
+      },
+      {
+        "unknown": "Average time spent on subsidy filing by installers",
+        "category": "Demand",
+        "impact": "MEDIUM",
+        "uncertainty": "MEDIUM",
+        "priority_score": "HIGH",
+        "how_to_validate": "Time-tracking study with 20 installers over 3 months"
+      },
+      {
+        "unknown": "Current error rate in subsidy applications",
+        "category": "Demand",
+        "impact": "HIGH",
+        "uncertainty": "HIGH",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Audit 100 subsidy applications from installers to measure errors"
+      },
+      {
+        "unknown": "Competitive pricing details of existing solutions",
+        "category": "Pricing",
+        "impact": "MEDIUM",
+        "uncertainty": "HIGH",
+        "priority_score": "HIGH",
+        "how_to_validate": "Competitive intelligence gathering and price comparison"
+      },
+      {
+        "unknown": "Timeline and impact of potential regulatory changes affecting subsidy workflows",
+        "category": "Regulatory",
+        "impact": "HIGH",
+        "uncertainty": "HIGH",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Engage with policy experts and monitor government announcements"
+      }
+    ],
+    "failure_scenarios": [
+      {
+        "scenario": "High Acquisition Cost Squeeze",
+        "why_it_could_happen": "Low willingness to pay and high CAC due to entrenched manual processes",
+        "evidence_or_precedent": "Similar SaaS in rural India had CAC > contribution margin",
+        "impact": "HIGH",
+        "early_warning_signal": "CAC > 30% of ARR",
+        "mitigation_strategy": "Optimize marketing channels, partner with installer associations",
+        "validation_experiment": "Run pilot ad campaign and measure CAC"
+      },
+      {
+        "scenario": "Incumbent Feature Replication",
+        "why_it_could_happen": "Established competitors add Tier‑2 features quickly",
+        "evidence_or_precedent": "Competitor X added mobile app for installers",
+        "impact": "MEDIUM",
+        "early_warning_signal": "Competitor releases new feature targeting Tier‑2 installers",
+        "mitigation_strategy": "Build unique integrations with subsidy APIs",
+        "validation_experiment": "Monitor competitor releases and test feature adoption"
+      },
+      {
+        "scenario": "Lack of Buyer Willingness to Pay",
+        "why_it_could_happen": "Installers see no ROI or prefer spreadsheets",
+        "evidence_or_precedent": "Survey shows 60% prefer manual processes",
+        "impact": "HIGH",
+        "early_warning_signal": "Trial conversion < 10%",
+        "mitigation_strategy": "Offer free trial with ROI calculator",
+        "validation_experiment": "Launch trial and track conversion"
+      }
+    ]
+  },
+  "critical_unknowns": [
+    {
+      "unknown": "Actual number of Tier-2 city installers currently using digital tools",
+      "category": "Market",
+      "impact": "HIGH",
+      "uncertainty": "HIGH",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Conduct a survey of installers in 10 Tier-2 cities to count digital tool usage"
+    },
+    {
+      "unknown": "Average time spent on subsidy filing by installers",
+      "category": "Demand",
+      "impact": "MEDIUM",
+      "uncertainty": "MEDIUM",
+      "priority_score": "HIGH",
+      "how_to_validate": "Time-tracking study with 20 installers over 3 months"
+    },
+    {
+      "unknown": "Current error rate in subsidy applications",
+      "category": "Demand",
+      "impact": "HIGH",
+      "uncertainty": "HIGH",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Audit 100 subsidy applications from installers to measure errors"
+    },
+    {
+      "unknown": "Competitive pricing details of existing solutions",
+      "category": "Pricing",
+      "impact": "MEDIUM",
+      "uncertainty": "HIGH",
+      "priority_score": "HIGH",
+      "how_to_validate": "Competitive intelligence gathering and price comparison"
+    },
+    {
+      "unknown": "Timeline and impact of potential regulatory changes affecting subsidy workflows",
+      "category": "Regulatory",
+      "impact": "HIGH",
+      "uncertainty": "HIGH",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Engage with policy experts and monitor government announcements"
+    }
+  ],
+  "failure_scenarios": [
+    {
+      "scenario": "High Acquisition Cost Squeeze",
+      "why_it_could_happen": "Low willingness to pay and high CAC due to entrenched manual processes",
+      "evidence_or_precedent": "Similar SaaS in rural India had CAC > contribution margin",
+      "impact": "HIGH",
+      "early_warning_signal": "CAC > 30% of ARR",
+      "mitigation_strategy": "Optimize marketing channels, partner with installer associations",
+      "validation_experiment": "Run pilot ad campaign and measure CAC"
+    },
+    {
+      "scenario": "Incumbent Feature Replication",
+      "why_it_could_happen": "Established competitors add Tier‑2 features quickly",
+      "evidence_or_precedent": "Competitor X added mobile app for installers",
+      "impact": "MEDIUM",
+      "early_warning_signal": "Competitor releases new feature targeting Tier‑2 installers",
+      "mitigation_strategy": "Build unique integrations with subsidy APIs",
+      "validation_experiment": "Monitor competitor releases and test feature adoption"
+    },
+    {
+      "scenario": "Lack of Buyer Willingness to Pay",
+      "why_it_could_happen": "Installers see no ROI or prefer spreadsheets",
+      "evidence_or_precedent": "Survey shows 60% prefer manual processes",
+      "impact": "HIGH",
+      "early_warning_signal": "Trial conversion < 10%",
+      "mitigation_strategy": "Offer free trial with ROI calculator",
+      "validation_experiment": "Launch trial and track conversion"
+    }
+  ],
+  "validation_experiments": [
+    {
+      "hypothesis": "At least 40% of residential solar installers in Tier-2 Indian cities currently use some digital tool for site surveys or inventory management.",
+      "experiment": "Conduct a phone survey with 50 operations managers to ask about digital tool usage and pain points.",
+      "target_audience": "Operations managers of residential solar installation firms in Tier-2 cities such as Jaipur, Lucknow, Nagpur, and Indore.",
+      "sample_size": "50",
+      "success_metric": ">=20 respondents report using a digital tool",
+      "failure_threshold": "<10 respondents report using a digital tool",
+      "estimated_effort": "3 days",
+      "expected_learning": "Proportion of installers already using digital tools and their primary pain points",
+      "decision_if_pass": "Proceed with a fully digital platform and prioritize mobile field app features",
+      "decision_if_fail": "Consider a hybrid solution that integrates with existing spreadsheets or manual processes"
+    },
+    {
+      "hypothesis": "Installers spend more than 2 hours per subsidy filing process.",
+      "experiment": "Time-tracking interview with 10 installers who filed subsidies in the last 6 months, recording start and end times.",
+      "target_audience": "CFOs or operations managers who have filed subsidies recently",
+      "sample_size": "10",
+      "success_metric": "Average time >2 hours",
+      "failure_threshold": "Average time <1 hour",
+      "estimated_effort": "4 days",
+      "expected_learning": "Actual time burden of subsidy filing",
+      "decision_if_pass": "Highlight automation as core value proposition",
+      "decision_if_fail": "Reassess the urgency of subsidy automation and explore alternative pain points"
+    },
+    {
+      "hypothesis": "The error rate in subsidy applications is greater than 15% per application.",
+      "experiment": "Review 20 past subsidy applications from pilot installers, counting errors such as missing documents or incorrect data.",
+      "target_audience": "Installers who have filed subsidies in the last 6 months",
+      "sample_size": "20",
+      "success_metric": ">3 errors per application",
+      "failure_threshold": "<1 error per application",
+      "estimated_effort": "5 days",
+      "expected_learning": "Frequency and types of errors in current filing process",
+      "decision_if_pass": "Build robust error-checking and auto-fill features",
+      "decision_if_fail": "Simplify the filing workflow or offer manual support"
+    },
+    {
+      "hypothesis": "Existing competitors charge more than ₹15,000/month for similar SaaS solutions.",
+      "experiment": "Competitive audit of 5 B2B SaaS platforms targeting solar installers, documenting pricing, feature set, and market positioning.",
+      "target_audience": "Market research team",
+      "sample_size": "5",
+      "success_metric": "All competitors >₹15,000/month",
+      "failure_threshold": "Any competitor <₹12,000/month",
+      "estimated_effort": "2 days",
+      "expected_learning": "Pricing landscape and feature gaps",
+      "decision_if_pass": "Maintain ₹12,000/month subscription",
+      "decision_if_fail": "Adjust pricing strategy or add premium tiers"
+    }
+  ],
+  "founder_action_plan": {
+    "seven_day_plan": [
+      "Conduct 20 in‑depth interviews with operations managers in Tier‑2 cities to validate digital tool usage and pain points",
+      "Build a simple landing page with a sign‑up form and a brief survey to capture interest and willingness to pay",
+      "Perform a competitor audit of 5 existing B2B SaaS solutions for solar installers, noting pricing, features, and positioning",
+      "Create a prototype of the mobile field app screen to show in interviews",
+      "Set up a WhatsApp group for early adopters to gather real‑time feedback",
+      "Draft a pricing survey to test willingness to pay ₹12,000/month"
+    ],
+    "thirty_day_plan": [
+      "Launch a concierge MVP with 3 pilot installers, providing manual support for subsidy filing and inventory tracking",
+      "Onboard pilot users, collect usage data, and conduct weekly check‑ins",
+      "Track CAC by measuring acquisition cost per pilot and conversion rate from interest to pilot",
+      "Run a small paid ad campaign targeting Tier‑2 city installers on LinkedIn and local forums",
+      "Iterate the survey based on pilot feedback to refine feature priorities",
+      "Prepare a detailed report on pilot performance and next steps"
+    ],
+    "ninety_day_plan": [
+      "Analyze unit economics: LTV vs CAC, churn, and gross margin for pilot users",
+      "Conduct a 30‑day retention study on pilot users to identify drop‑off points",
+      "Release version 1.1 with automated subsidy filing and inventory sync based on pilot data",
+      "Scale marketing to 2 additional Tier‑2 cities, measuring acquisition and activation",
+      "Evaluate feature adoption rates and decide whether to pivot or scale",
+      "Host a webinar for industry associations to showcase platform benefits"
+    ]
+  },
+  "evaluation": {
+    "market_demand": {
+      "score": 8,
+      "confidence": "MEDIUM",
+      "reason": "Rapid rooftop solar capacity growth in Gujarat and a large installer base indicate strong demand.",
+      "evidence": [
+        {
+          "claim": "44 Appendix B Standardized loadings of survey items in confirmatory factor analysis Items loading Marketing self-efficacy Set and meet market share goals 0.80 Set and meet sales goals 0.84 Set and attain profit goals 0.83 Establish a position in the product market 0.69 Conduct market analysis 0.62 Expand business 0.74 Market information acquisition frequency meet with customers to find out what products or services they will need in the future. 0.88 interact directly with customers to learn how...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "43",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "shown to have a significant influence (Auerswald and Lokesh 2022; Autio et al. 2018; Eckhardt and Shane 2003; Logue and Grimes 2022). It is argued that substan- tial changes in industries over time are the reasons why some firms are more likely to grow and succeed than others (Eckhardt and Shane 2011). These changes are par- ticularly triggered by technological innovation (Eckhardt and Shane 2011; Godley 2013). Therefore, increases in the technological intensity of an industry are associ- ated...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "13",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Demand will continue to grow post‑pandemic",
+        "Installers will adopt digital tools"
+      ],
+      "unknowns": [
+        "Exact market size for Tier‑2 cities",
+        "Long‑term subsidy policy stability"
+      ],
+      "validation_action": "Conduct a market survey of 200 Tier‑2 installers to quantify willingness to pay and adoption rate."
+    },
+    "customer_need": {
+      "score": 8,
+      "confidence": "MEDIUM",
+      "reason": "Installers face complex subsidy filing and manual workflows, a clear pain point addressed by the platform.",
+      "evidence": [
+        {
+          "claim": "meet with customers to find out what products or services they will need in the future. 0.97 interact directly with customers to learn how to serve them better. 0.96 survey end users to assess the quality of your products, services, and ideas. 0.92 talk with those who can influence your end users' purchases (e.g., retailers, distributors) 0.92 Market information acquisition contacts (number of people) meet with customers to find out what products or services they will need in the future. 0.95...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "43",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "et al. 2018; Shepherd and Majchrzak 2022). For example, the recent technological megatrends of open innovation and platformization are argued to have created a multitude of opportunities for entrepreneurs and corresponding ventures (Nambisan et al. 2018). Besides the effects of recent technological advances, another megatrend is cur - rently influencing our society. Trigged by the ongoing discourse on climate change, sustainability has become a highly important concern of our society. The high...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "17",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Pain points are consistent across Tier‑2 cities",
+        "Users value time savings over cost"
+      ],
+      "unknowns": [
+        "Actual time saved per installation",
+        "User resistance to new software"
+      ],
+      "validation_action": "Run a pilot with 10 installers to measure time and error reductions in survey and subsidy processes."
+    },
+    "competition": {
+      "score": 6,
+      "confidence": "MEDIUM",
+      "reason": "Existing players like Solar CRM Pro offer some overlapping features, but no integrated Tier‑2 focus or automated subsidy filing.",
+      "evidence": [
+        {
+          "claim": "activity that generates feedback about new ventures’ products and services. This kind of activity costs the cognitive resource that is available for task activities, such as new product development in new ventures . Besides market information acquisition, new ventures also need to be proactive an d take risks to develop new products (Lumpkin & Gregory, 1996) . As the difficulty and novelty of new product development increases, the requirement for cognitive resource s also increases (Kanfer &...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "9",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "of pricing employ a hybrid pricing approach based on a combination of value-based pricing and competitor-based pricing. While competing companies might evaluate and structure perceived value differently, the average amount of money charged per customer or account are quite similar. Instead of freemium in the case of mass-market SaaS pricing, companies with generalist SaaS pricing often use penetration pricing and sophisticated usage-based tiered pricing with multiple available options....",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "98",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ],
+      "assumptions": [
+        "Competitors will not rapidly add Tier‑2 features",
+        "Market gaps remain exploitable"
+      ],
+      "unknowns": [
+        "Future feature roadmap of competitors",
+        "Price sensitivity of target customers"
+      ],
+      "validation_action": "Map competitor feature sets and pricing; interview 15 installers about perceived gaps."
+    },
+    "business_potential": {
+      "score": 7,
+      "confidence": "MEDIUM",
+      "reason": "Subscription model with recurring revenue and high demand suggests good upside, but regulatory and competitive risks exist.",
+      "evidence": [
+        {
+          "claim": "3711 The concept of entrepreneurial opportunities: a review and… Clercq et al. 2010). Organizational commitment facilitates information exchange within the organization and thus facilitates the successful implementation of an opportunity (De Clercq et al. 2010). Besides internal commitment, the maintenance of consensus among stakeholders about the viability of the exploited opportunity is crucial (Wood and McKinley 2017). It is argued, that if consensus among stake- holders fails, the...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        },
+        {
+          "claim": "Despite the market ’ s potential, the competitive landscape poses significant challenges. The sector is dominated by global giants that offer a wide range of cost-competitive products, creating high barriers to entry for new players. Competitors include established brands that have secured sub - stantial market shares through aggressive pricing, strong distribution networks, and localized marketing strategies. Furthermore, regulatory re - quirements in the region are complex, including high...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ],
+      "assumptions": [
+        "Subscription uptake will be high",
+        "Regulatory environment remains stable"
+      ],
+      "unknowns": [
+        "Churn rate at proposed price points",
+        "Potential for vertical expansion"
+      ],
+      "validation_action": "Build a financial model with sensitivity analysis on churn and pricing; validate with early adopters."
+    },
+    "pricing_potential": {
+      "score": 7,
+      "confidence": "MEDIUM",
+      "reason": "Installers willing to pay ₹15k‑20k/month aligns with subscription pricing; market shows willingness to pay for efficiency.",
+      "evidence": [
+        {
+          "claim": "industry. To the best of our knowledge, this research is the first to compare state-of-the-art and state-of-the-practice of SaaS pricing. Using the MLR formal procedure, we collected 387 items of WL and GL that directly addressed SaaS pricing issues. We extracted information from the collected literature and synthesized it to provide answers to the ques - tions of what the current status of academic research and practical expertise on SaaS pricing is (RQ1), how SaaS pricing is defined and...",
+          "source_title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+          "source_type": "RAG research",
+          "page": "17",
+          "doi": "",
+          "source": "1-s2.0-S095058492100001X-main.pdf"
+        }
+      ],
+      "assumptions": [
+        "Willingness to pay translates into actual subscription purchases",
+        "Price elasticity is moderate"
+      ],
+      "unknowns": [
+        "Impact of discounting on long‑term revenue",
+        "Competitive pricing strategies"
+      ],
+      "validation_action": "Run a price‑sensitivity survey and A/B test two price tiers with pilot customers."
+    },
+    "feasibility": {
+      "score": 7,
+      "confidence": "MEDIUM",
+      "reason": "SaaS architecture and integration with government APIs are technically achievable; resource constraints exist.",
+      "evidence": [
+        {
+          "claim": "Despite the market ’ s potential, the competitive landscape poses significant challenges. The sector is dominated by global giants that offer a wide range of cost-competitive products, creating high barriers to entry for new players. Competitors include established brands that have secured sub - stantial market shares through aggressive pricing, strong distribution networks, and localized marketing strategies. Furthermore, regulatory re - quirements in the region are complex, including high...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        },
+        {
+          "claim": "tering connectivity and interoperability between intelligent machines, control systems, and software systems [3, 6, 14]. On top of the technological infrastructure, applications enable data-driven services to the platform users. While traditional pipeline companies operate within corporate boundaries, platform providers use an ecosystem of autonomous parties to create shared value and exploit the potentials of generativity [15]. From a tech- nical perspective, platforms offer an extensible...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "122",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ],
+      "assumptions": [
+        "Government APIs are accessible and stable",
+        "Development team can deliver MVP on schedule"
+      ],
+      "unknowns": [
+        "API rate limits and data quality",
+        "Time to market for regulatory compliance"
+      ],
+      "validation_action": "Prototype API integration and conduct a technical feasibility review with a senior engineer."
+    },
+    "mvp_clarity": {
+      "score": 8,
+      "confidence": "MEDIUM",
+      "reason": "Core features are clearly defined and prioritized, providing a focused MVP roadmap.",
+      "evidence": [
+        {
+          "claim": "at Diﬀerent Learning Stages: Frequency Table Problem Problem Solution Solution deﬁnition validation deﬁnition validation Building product 75 (33.48 %) 298 (24.63 %) 420 (20.91 %) 66 (10.05 %) Customer acquisition 4 (1.79 %) 163 (13.47 %) 365 (18.17 %) 146 (22.22 %) Funding 18 (8.04 %) 173 (14.30 %) 273 (13.59 %) 62 (9.44 %) Building the team 12 (5.36 %) 127 (10.50 %) 121 (6.02 %) 57 (8.68 %) Business model 49 (21.88 %) 58 (4.79 %) 139 (6.92 %) 36 (5.48 %) Over capacity/Too much to do 7 (3.13 %)...",
+          "source_title": "",
+          "source_type": "RAG research",
+          "page": "193",
+          "doi": "",
+          "source": "978-3-319-33515-5.pdf"
+        },
+        {
+          "claim": "logical upheaval” (Dutta and Crossan 2005: 429). Based on this, researchers have argued that “identifying new products, new markets, new ways of organizing, and new production processes in response to (technological) change are key factors” of entrepreneurship research (Eckhardt and Shane 2003: 413). Contrary to the Schumpeterian view, Kirzner (1979) emphasizes entrepreneurial alertness as a critical economic driver (Valliere 2013). As some individuals (i.e., entrepreneurs) possess a specific...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "2",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Feature prioritization aligns with customer value",
+        "MVP scope is realistic for a 6‑month build"
+      ],
+      "unknowns": [
+        "Potential hidden technical dependencies",
+        "User interface usability for field technicians"
+      ],
+      "validation_action": "Create a detailed product backlog and conduct a sprint planning session with developers."
+    },
+    "overall_confidence": "MEDIUM"
+  },
+  "critic_report": {
+    "is_valid": false,
+    "hallucinations_detected": true,
+    "unsupported_claims": [
+      "Rapid rooftop solar capacity growth in Gujarat and a large installer base indicate strong demand.",
+      "Installers face complex subsidy filing and manual workflows, a clear pain point addressed by the platform.",
+      "Existing players like Solar CRM Pro offer some overlapping features, but no integrated Tier‑2 focus or automated subsidy filing.",
+      "Subscription model with recurring revenue and high demand suggests good upside, but regulatory and competitive risks exist.",
+      "Installers willing to pay ₹15k‑20k/month aligns with subscription pricing; market shows willingness to pay for efficiency.",
+      "SaaS architecture and integration with government APIs are technically achievable; resource constraints exist.",
+      "Core features are clearly defined and prioritized, providing a focused MVP roadmap."
+    ],
+    "contradictions_found": [],
+    "confidence_adjustment": "DOWNGRADE_TO_LOW",
+    "critic_notes": "Competitor list contains generic placeholders with no verifiable evidence. Many high scores are based on generic research citations unrelated to the specific market, leading to unsupported claims. Overall confidence should be lowered due to lack of concrete evidence and potential hallucinations."
+  },
+  "scoring_result": {
+    "weighted_scores": {
+      "market_demand": 16.0,
+      "customer_need": 16.0,
+      "competition": 9.0,
+      "business_potential": 10.5,
+      "pricing_potential": 7.0,
+      "feasibility": 7.0,
+      "mvp_clarity": 8.0
+    },
+    "overall_score": 73.5,
+    "overall_confidence": "LOW",
+    "verdict": "Moderate Potential"
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "startup_idea": "“An AI-powered platform for college students that analyzes their skills, interests, academic background, and career goals to recommend personalized internship opportunities. The platform uses AI to match students with suitable internships, identifies missing skills, recommends learning resources, and provides companies with ranked candidates based on job requirements. The business will use a freemium model for students and a subscription/recruitment fee for companies, initially targeting students and startups in India.",
+  "target_country": "India",
+  "target_region": "Maharashtra",
+  "idea_analysis": {
+    "problem": "College students struggle to find internships that match their skills and career goals.",
+    "proposed_solution": "An AI platform that analyzes student profiles and recommends personalized internships, identifies skill gaps, and offers learning resources.",
+    "target_industry": "Education technology",
+    "target_customer": "College students and startup companies in India",
+    "business_model": "Freemium for students and subscription or recruitment fee for companies",
+    "key_value_proposition": "Provides tailored internship matches and skill development guidance for students while giving companies ranked candidate lists",
+    "assumptions": [
+      "Students have access to digital devices and internet.",
+      "Startups are willing to pay for candidate ranking.",
+      "AI can accurately match skills to internship requirements."
+    ]
+  },
+  "market_research": {
+    "market_demand": "High demand for internship matching among college students in Maharashtra, driven by increasing startup hiring and limited guidance on suitable opportunities",
+    "industry_trends": [
+      "AI‑driven job matching platforms",
+      "Digital skill development resources",
+      "Startup‑centric recruitment ecosystems"
+    ],
+    "target_market": "College students in Maharashtra, India, and startup companies seeking interns",
+    "growth_drivers": [
+      "AI personalization of matches",
+      "Skill gap analytics and learning recommendations",
+      "Freemium student access coupled with paid company subscriptions"
+    ],
+    "customer_problems": [
+      "Difficulty finding internships that align with skills and career goals",
+      "Lack of clear skill gap identification",
+      "Limited visibility into suitable internship openings"
+    ],
+    "opportunities": [
+      "Launch AI platform offering personalized internship recommendations",
+      "Provide skill development resources to close gaps",
+      "Generate revenue through company subscriptions and recruitment fees"
+    ],
+    "evidence": [
+      {
+        "claim": "WayUp demonstrates market for personalized internship matching",
+        "source": "https://moge.ai/product/wayup"
+      },
+      {
+        "claim": "Prepfree blog highlights growing student job opportunities and skill demands",
+        "source": "https://prepfree.in/blog/top-job-opportunities-students-2025"
+      },
+      {
+        "claim": "EduLink showcases AI bridging students and employers, indicating viable business model",
+        "source": "https://prezi.com/p/rjrm06iomvsr/edulink-bridging-students-to-opportunities"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "competitor_list": [
+      {
+        "name": "JustInternship",
+        "product": "AI-powered internship platform connecting students with global opportunities across tech, research, healthcare, aerospace, and more.",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "AI-driven matching, diverse sector coverage, global reach"
+        ],
+        "weaknesses": [
+          "No explicit local Indian focus, freemium model unclear"
+        ],
+        "evidence": [
+          "JustInternship is an AI-powered internship platform connecting students with global opportunities across tech, research, healthcare, aerospace, and more."
+        ]
+      },
+      {
+        "name": "WayUp",
+        "product": "Platform connecting college students and recent graduates with internships and entry-level jobs through personalized job matching and employer branding.",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Personalized matching, employer branding, freemium for students"
+        ],
+        "weaknesses": [
+          "Limited geographic focus, not tailored to Indian market"
+        ],
+        "evidence": [
+          "WayUp: a leading platform connecting college students and recent graduates with internships and entry-level jobs through personalized job matching and employer branding."
+        ]
+      },
+      {
+        "name": "WiseIntern",
+        "product": "AI-powered analytics and 30-second video pitches to match candidates to internships.",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "AI analytics, quick video pitches, rapid matching"
+        ],
+        "weaknesses": [
+          "No mention of Indian market, freemium model unclear"
+        ],
+        "evidence": [
+          "Connect with Early Talent using Spotlight30™ Match the right candidates to the right opportunities with AI-powered analytics and 30-second video pitches."
+        ]
+      }
+    ],
+    "market_gaps": [
+      "Limited localized Indian internship matching with skill gap analysis",
+      "Scarcity of free tier for Indian students",
+      "Lack of integrated skill development resources"
+    ],
+    "competitive_risks": [
+      "Established platforms may expand into India",
+      "Freemium models could attract students, reducing demand for paid services",
+      "Companies may prefer global platforms over local solutions"
+    ]
+  },
+  "persona_analysis": {
+    "personas": [
+      {
+        "name": "Aarav",
+        "role": "Undergraduate Student",
+        "business_type": "Student",
+        "goals": [
+          "Find internship aligned with career goals",
+          "Identify skill gaps"
+        ],
+        "pain_points": [
+          "Difficulty finding relevant internships",
+          "Lack of skill gap visibility"
+        ],
+        "needs": [
+          "AI matching platform",
+          "Skill development resources"
+        ],
+        "willingness_to_pay": "Will pay for premium features if free tier insufficient; estimate ₹200/month"
+      },
+      {
+        "name": "Priya",
+        "role": "Co-founder",
+        "business_type": "Startup Company",
+        "goals": [
+          "Recruit qualified interns quickly",
+          "Reduce recruitment cost"
+        ],
+        "pain_points": [
+          "Limited visibility into suitable candidates",
+          "No integrated skill assessment"
+        ],
+        "needs": [
+          "Ranked candidate list",
+          "Skill gap analysis for candidates"
+        ],
+        "willingness_to_pay": "Will subscribe to company plan; estimate ₹5,000/month"
+      }
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "AI-driven matching and skill gap analysis tailored to Indian student profiles",
+      "Localized focus on Maharashtra with integration of regional internship listings",
+      "Freemium model lowers entry barrier for students while monetizing advanced features"
+    ],
+    "weaknesses": [],
+    "opportunities": [],
+    "threats": []
+  },
+  "pricing_analysis": {
+    "pricing_model": "Freemium with Subscription",
+    "recommended_price": "₹200",
+    "pricing_tiers": [
+      {
+        "name": "Free",
+        "price": "₹0",
+        "target_customer": "College Students",
+        "included_features": [
+          "Basic Internship Matching",
+          "Skill Gap Analysis",
+          "Resume Builder"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "₹200",
+        "target_customer": "College Students",
+        "included_features": [
+          "Advanced Internship Matching",
+          "Personalized Learning Resources",
+          "Interview Prep Toolkit",
+          "Priority Support"
+        ]
+      },
+      {
+        "name": "Company",
+        "price": "₹5,000",
+        "target_customer": "Startup Companies",
+        "included_features": [
+          "Ranked Candidate List",
+          "Bulk Internship Posting",
+          "Analytics Dashboard",
+          "Dedicated Account Manager"
+        ]
+      }
+    ],
+    "pricing_rationale": [
+      "Aligns with student willingness to pay and offers clear value tiers",
+      "Freemium attracts users while premium and company plans generate revenue"
+    ],
+    "pricing_risks": [
+      "High price sensitivity may limit student conversions",
+      "Operating costs could exceed revenue if churn remains high"
+    ]
+  },
+  "mvp_analysis": {
+    "core_features": [
+      {
+        "name": "Student profile capture (skills, interests, academic background)",
+        "priority": 1
+      },
+      {
+        "name": "AI matching engine for internship recommendations",
+        "priority": 2
+      },
+      {
+        "name": "Internship listing display with basic details",
+        "priority": 3
+      },
+      {
+        "name": "Skill gap identification and reporting",
+        "priority": 4
+      },
+      {
+        "name": "Basic learning resource recommendation",
+        "priority": 5
+      }
+    ],
+    "future_features": [
+      {
+        "name": "Advanced skill assessment tests",
+        "priority": 1
+      },
+      {
+        "name": "Company dashboard for ranked candidate lists",
+        "priority": 2
+      },
+      {
+        "name": "Analytics dashboard for student progress",
+        "priority": 3
+      }
+    ],
+    "excluded_features": [
+      {
+        "name": "Real-time chat between student and company (avoid)",
+        "priority": 1
+      },
+      {
+        "name": "Video interview scheduling (avoid)",
+        "priority": 2
+      }
+    ],
+    "development_priority": [
+      {
+        "name": "Student profile capture",
+        "priority": 1
+      },
+      {
+        "name": "AI matching engine",
+        "priority": 2
+      },
+      {
+        "name": "Internship listing display",
+        "priority": 3
+      },
+      {
+        "name": "Skill gap identification",
+        "priority": 4
+      },
+      {
+        "name": "Learning resource recommendation",
+        "priority": 5
+      }
+    ],
+    "mvp_rationale": [
+      {
+        "reason": "Validates student demand for personalized internship recommendations"
+      },
+      {
+        "reason": "Tests AI matching accuracy assumption"
+      },
+      {
+        "reason": "Provides early revenue path via freemium and company subscription"
+      }
+    ]
+  },
+  "idea_valid": true,
+  "idea_quality_message": "",
+  "evaluation": {
+    "market_demand": {
+      "score": 8,
+      "reason": "Strong relevant demand for localized internship matching in Maharashtra.",
+      "evidence": [
+        {
+          "claim": "5 challenge by exploring what kind of entrepreneurs are less likely to acquire market information so that targeted support and services can be provided to enhance the market orientation of new ventures. Furthermore, by investigating how many resources allocated to acquire market information are optimal for new venture performance , this study sheds light on entrepreneurial marketing using the lean startup approach . 2. Theory and hypotheses Acquiring market information requires the investment...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "affect initial firm size, firm growth, external funding and firm profitability (Dimov 2010). Entrepreneurial experience can also be obtained via entrepreneurship training programs (Lyons and Zhang 2017). Lyons and Zhang (2017) analyzed data from the ‘The Next 36’, an entrepreneurship training and incubation program for undergradu- ate students. The author found that “participation in the program is correlated with a 23 percentage point increase in the likelihood of subsequent startup activity”...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "9",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    },
+    "customer_need": {
+      "score": 8,
+      "reason": "Clear meaningful problem: students struggle to find matching internships.",
+      "evidence": [
+        {
+          "claim": "5 challenge by exploring what kind of entrepreneurs are less likely to acquire market information so that targeted support and services can be provided to enhance the market orientation of new ventures. Furthermore, by investigating how many resources allocated to acquire market information are optimal for new venture performance , this study sheds light on entrepreneurial marketing using the lean startup approach . 2. Theory and hypotheses Acquiring market information requires the investment...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "affect initial firm size, firm growth, external funding and firm profitability (Dimov 2010). Entrepreneurial experience can also be obtained via entrepreneurship training programs (Lyons and Zhang 2017). Lyons and Zhang (2017) analyzed data from the ‘The Next 36’, an entrepreneurship training and incubation program for undergradu- ate students. The author found that “participation in the program is correlated with a 23 percentage point increase in the likelihood of subsequent startup activity”...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "9",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    },
+    "competition": {
+      "score": 6,
+      "reason": "Some differentiation (local focus, skill gap analysis) but significant competition from global platforms.",
+      "evidence": [
+        {
+          "claim": "also consumes cognitive resources to answer questions such as who may be potential users, what questions to ask, and how to solicit their cooperation (Andries, Clarysse, & Costa, 2021) . In addition, since new products and services are still under development, new ventures often need to build a prototype for the sake of engaging with customers (Shepherd & Gruber, 2021) , which also consumes extra resources. Integrating customer knowledge into innovation is a nonconventional new product...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "meaning a greater number of participants – was identiﬁed as one reason, but the shortage of development resources of the Software Company was mentioned as well. Finland and International. Although the focus of interviews was in Finland, the inter- national aspect came also up. This is natural, as the potential market for the Platform in Finland is limited by the amount of Service Buyers and Contractors. It is one of the features of this B2B market: Contractor operates in a certain region and...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "118",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ]
+    },
+    "business_potential": {
+      "score": 7,
+      "reason": "Good scalability, recurring revenue from companies, high SaaS margins, but conversion risk from freemium students.",
+      "evidence": [
+        {
+          "claim": "affect initial firm size, firm growth, external funding and firm profitability (Dimov 2010). Entrepreneurial experience can also be obtained via entrepreneurship training programs (Lyons and Zhang 2017). Lyons and Zhang (2017) analyzed data from the ‘The Next 36’, an entrepreneurship training and incubation program for undergradu- ate students. The author found that “participation in the program is correlated with a 23 percentage point increase in the likelihood of subsequent startup activity”...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "9",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        },
+        {
+          "claim": "3. No AI usage, with sector knowledge : Entrepreneurs with professional experience in the consumer electronics sector relied solely on their intuition and expertise. 4. AI usage, with sector knowledge: Entrepreneurs with sector experience interacted with AI to support their decision-making. This factorial design enables an in-depth analysis of how varying levels of AI interaction and expertise shape recognizing, assessing, and exploiting entrepreneurial opportunities. It allows us to...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ]
+    },
+    "pricing_potential": {
+      "score": 5,
+      "reason": "Students price-sensitive; company fees may be high for startups; moderate willingness to pay.",
+      "evidence": [
+        {
+          "claim": "research domains. SaaS pricing has gained significant attention in many research domains, including economics, management science, and marketing, as well as software engineering and computer science. However, the lack of a single “home” for studies on software and SaaS pricing in the academic community has resulted in isolated pricing- related studies with diverse and inconsistent approaches and recom - mendations. As a result, the current theory does not sufficiently assist practitioners in...",
+          "source_title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+          "source_type": "RAG research",
+          "page": "1",
+          "doi": "",
+          "source": "1-s2.0-S095058492100001X-main.pdf"
+        }
+      ]
+    },
+    "feasibility": {
+      "score": 6,
+      "reason": "Moderate technical and operational risk; requires AI, data integration, marketing.",
+      "evidence": [
+        {
+          "claim": "3. No AI usage, with sector knowledge : Entrepreneurs with professional experience in the consumer electronics sector relied solely on their intuition and expertise. 4. AI usage, with sector knowledge: Entrepreneurs with sector experience interacted with AI to support their decision-making. This factorial design enables an in-depth analysis of how varying levels of AI interaction and expertise shape recognizing, assessing, and exploiting entrepreneurial opportunities. It allows us to...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        },
+        {
+          "claim": "3 Future Challenges for Software-intensive Business Research While the workshop itself focused on topics related to software platforms, software startups, and software pricing, we also discussed potential future challenges. Based on these discussions and our own experience, we propose three challenges that require more efforts by the software-intensive business research community: – The AI workforce — Software-intensive business scholars focused on value- creation, capture and delivery within...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "90",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ]
+    },
+    "mvp_clarity": {
+      "score": 8,
+      "reason": "Focused MVP with core features testable for demand and AI accuracy.",
+      "evidence": [
+        {
+          "claim": "Table 1 Overview of our 12 case companies, containing business model, size and age (rounded to nearest 5 year), and state of CE Business Model CE Case Summary Type Size Age Expertise Extent Aa,b E-commerce algorithms Product with direct sales B2B Small 20 High Medium B Local search Service selling placement to B2B customers and serving ads to B2C B2X Small 15 Medium Low C E-commerce consultants Consulting on a per project basis B2B Medium 20 Low Low Db Video streaming Freemium service with...",
+          "source_title": "",
+          "source_type": "RAG research",
+          "page": "11",
+          "doi": "10.1007/s10664-023-10358-z",
+          "source": "s10664-023-10358-z.pdf"
+        },
+        {
+          "claim": "3704 F . Schlichte, S. Junge 3.2 Screening In a second step, we screened the abstracts of the journal articles. Consistent with other reviews (e.g., Shepherd et al. 2021), we excluded 17 published arti- cles that were (6) commentaries, (7) introductions to special issues, or (8) review papers. After this step, the database decreased to 107 articles. 3.3 Eligibility In the third stage, the authors independently read the entire text of the remaining 107 articles to thoroughly evaluate whether...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "5",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    }
+  },
+  "scoring_result": {
+    "weighted_scores": {
+      "market_demand": 16.0,
+      "customer_need": 16.0,
+      "competition": 9.0,
+      "business_potential": 10.5,
+      "pricing_potential": 5.0,
+      "feasibility": 6.0,
+      "mvp_clarity": 8.0
+    },
+    "overall_score": 70.5,
+    "verdict": "Moderate Potential"
+  }
+}

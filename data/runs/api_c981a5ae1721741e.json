@@ -1,0 +1,33 @@
+{
+  "startup_idea": "I want to build an app.",
+  "target_country": "India",
+  "target_region": "Maharashtra",
+  "idea_analysis": {
+    "problem": "Not specified",
+    "proposed_solution": "Not specified",
+    "target_industry": "Not specified",
+    "target_customer": "Not specified",
+    "business_model": "Not specified",
+    "key_value_proposition": "Not specified",
+    "assumptions": [
+      "Not specified",
+      "Not specified",
+      "Not specified"
+    ]
+  },
+  "idea_valid": false,
+  "idea_quality_message": "Startup idea is too vague. Please specify the problem, solution, and target customer.",
+  "scoring_result": {
+    "overall_score": 0,
+    "verdict": "Insufficient Information",
+    "summary": "Startup idea is too vague. Please specify the problem, solution, and target customer.",
+    "key_strengths": [],
+    "key_weaknesses": [
+      "Problem is not clearly specified.",
+      "Proposed solution is not clearly specified.",
+      "Target customer is not clearly specified."
+    ],
+    "opportunities": [],
+    "threats": []
+  }
+}

@@ -1,0 +1,1113 @@
+{
+  "startup_idea": "A subscription-based healthy meal delivery service for working professionals in Pune that provides affordable calorie-controlled home-style meals.",
+  "target_country": "India",
+  "target_region": "Maharashtra",
+  "idea_analysis": {
+    "startup_name": "PuneFit Meals",
+    "one_line_description": "A subscription-based healthy meal delivery service offering affordable, calorie-controlled home-style meals to working professionals in Pune.",
+    "problem_statement": "Busy professionals in Pune lack time and affordable options for healthy, home-style meals, leading to poor nutrition and health outcomes.",
+    "proposed_solution": "Monthly subscription plans delivering pre-portioned, calorie-controlled meals prepared in a home-style kitchen, delivered to the subscriber’s workplace or home.",
+    "target_industry": "Food & Beverage / Health & Wellness",
+    "target_customer": "Working professionals in Pune",
+    "primary_user": "The professional who consumes the meals",
+    "buyer": "The professional who pays for the subscription",
+    "beneficiary": "The professional’s health and well-being",
+    "geography": "Pune, India",
+    "primary_category": "consumer app",
+    "secondary_categories": [
+      "healthtech",
+      "services"
+    ],
+    "business_model": "Subscription",
+    "revenue_model": "Monthly subscription fees",
+    "key_value_proposition": "Affordable, calorie-controlled, home-style meals delivered on time to busy professionals, improving health without sacrificing convenience",
+    "acquisition_channels": [
+      "Social media advertising",
+      "Workplace partnerships",
+      "Referral program"
+    ],
+    "key_assumptions": [
+      "Professionals prioritize health and are willing to pay for convenience",
+      "Logistics can deliver meals reliably and cost-effectively",
+      "Pricing remains competitive against local alternatives"
+    ],
+    "critical_unknowns": [
+      "What is the actual demand volume in Pune for such a service?",
+      "What are the precise cost structures for meal prep, packaging, and delivery?",
+      "How scalable is the model beyond Pune?"
+    ]
+  },
+  "research_plan": {
+    "business_model_type": "Consumer App (Subscription)",
+    "required_information": [
+      "Average Order Value (AOV)",
+      "Customer Acquisition Cost (CAC)",
+      "Customer Lifetime Value (LTV)",
+      "Cost of Goods Sold (COGS) and Gross Margin",
+      "Delivery Logistics Cost per Order",
+      "Subscription Churn Rate",
+      "Kitchen Overhead and Scalability Metrics"
+    ],
+    "key_questions_to_answer": [
+      "What subscription price point maximizes profitability while remaining affordable for Pune professionals?",
+      "What is the projected churn rate and what retention strategies can reduce it?",
+      "Which cost components (ingredients, labor, delivery) most impact margins and how can they be optimized?",
+      "How scalable is the kitchen and delivery network to support city-wide expansion?",
+      "When will the business reach break-even and what are the key financial milestones?"
+    ],
+    "market_queries": [
+      "Pune working professionals healthy meal delivery market size 2024",
+      "India Pune office workers lunch subscription demand 2024",
+      "calorie controlled meal subscription market India 2024"
+    ],
+    "competitor_queries": [
+      "Pune healthy meal delivery services",
+      "office lunch delivery Pune",
+      "home cooking meal kits Pune"
+    ],
+    "pricing_queries": [
+      "average price of subscription meal delivery Pune",
+      "cost per meal for healthy meal delivery India"
+    ],
+    "regulatory_queries": [
+      "food safety regulations for meal delivery in Maharashtra",
+      "licensing requirements for food business in Pune"
+    ]
+  },
+  "idea_valid": true,
+  "idea_quality_message": "",
+  "market_research": {
+    "market_demand": "The global healthy meal delivery market is valued at USD 24.77 billion in 2024 with a 15 % CAGR to 2031, and another report cites a 2024 size of USD 10.58 billion, indicating strong demand for convenient, health‑focused meal options.",
+    "industry_trends": [
+      "Subscription‑based delivery",
+      "Calorie‑controlled meal plans",
+      "Home‑style cooking",
+      "Digital ordering platforms",
+      "Health & wellness focus"
+    ],
+    "target_market": "Working professionals in Pune, Maharashtra, India, who seek affordable, calorie‑controlled, home‑style meals delivered to their workplace or home.",
+    "growth_drivers": [
+      "Urbanization",
+      "Rising disposable income",
+      "Health consciousness",
+      "Convenience demand",
+      "Post‑lockdown subscription uptake"
+    ],
+    "customer_problems": [
+      "Limited time for cooking",
+      "Lack of affordable healthy options",
+      "Inconsistent meal quality",
+      "Difficulty managing calorie intake"
+    ],
+    "opportunities": [
+      "Local subscription model tailored to Pune professionals",
+      "Partnerships with corporate offices",
+      "Meal customization",
+      "Digital ordering integration",
+      "Price competitiveness"
+    ],
+    "evidence": [
+      {
+        "claim": "Global healthy meal delivery market valued at USD 24.77 billion in 2024 with a 15 % CAGR to 2031.",
+        "source": "LinkedIn article – Healthy Meal Delivery Services Market May Set New Growth"
+      },
+      {
+        "claim": "Global market size reported as USD 10.58 billion in 2024.",
+        "source": "Cognitivemarketresearch – Healthy Meal Delivery Service Market Analysis 2026"
+      },
+      {
+        "claim": "Asia Pacific accounted for USD 1.23 billion in 2025, projected to grow to USD 1.35 billion in 2026.",
+        "source": "Fortune Business Insights – Food Subscription Market Size, Share & Trends"
+      },
+      {
+        "claim": "Subscription services in Pune saw a spike in new memberships post‑lockdown.",
+        "source": "Times of India – Subscription‑based services in high demand | Pune News"
+      },
+      {
+        "claim": "Urbanization and rising disposable income in India drive demand for food subscription services.",
+        "source": "Fortune Business Insights – Food Subscription Market Size, Share & Trends"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "direct_competitors": [
+      {
+        "name": "Healthy-O-Me",
+        "competitor_type": "DIRECT",
+        "product": "Dietitian-approved healthy meal delivery with nutritionist-crafted meal plans, customisable bowls, subscription plans, dietitian consultations, rewards program",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Working professionals in Pune seeking healthy meals",
+        "strengths": [
+          "Dietitian-approved",
+          "Customisable bowls",
+          "Subscription flexibility",
+          "Rewards program",
+          "Nutritionist consultations"
+        ],
+        "weaknesses": [
+          "Pricing not disclosed",
+          "Limited to Pune and surrounding regions",
+          "No explicit calorie control"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://healthyome.in"
+        ]
+      }
+    ],
+    "indirect_competitors": [
+      {
+        "name": "Dumbellbox",
+        "competitor_type": "INDIRECT",
+        "product": "High-protein, macro-balanced meal subscription targeting gym lovers and busy professionals",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Gym lovers, busy professionals",
+        "strengths": [
+          "Macro-balanced meals",
+          "High protein",
+          "Subscription model",
+          "Targeted marketing"
+        ],
+        "weaknesses": [
+          "Not focused on calorie control",
+          "Not specifically home-style",
+          "Limited to Pune"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://dumbellbox.com"
+        ]
+      },
+      {
+        "name": "Corporate Tiffin Service",
+        "competitor_type": "INDIRECT",
+        "product": "Lunch delivery to offices",
+        "pricing": "Starting at ₹195",
+        "target_customer": "Office workers",
+        "strengths": [
+          "Affordable",
+          "Office delivery"
+        ],
+        "weaknesses": [
+          "Not calorie-controlled",
+          "Limited menu"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://www.instagram.com/reel/DasmLVvSjbR"
+        ]
+      }
+    ],
+    "substitutes": [
+      {
+        "name": "Office Cafeteria",
+        "competitor_type": "SUBSTITUTE",
+        "product": "On-site cafeteria providing meals at workplace",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Working professionals",
+        "strengths": [
+          "Convenient location",
+          "Immediate service"
+        ],
+        "weaknesses": [
+          "Limited menu variety",
+          "Potentially unhealthy",
+          "No calorie control"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://www.instagram.com/p/DcfmtEQKBs-"
+        ]
+      },
+      {
+        "name": "Home-Cooked Meal",
+        "competitor_type": "SUBSTITUTE",
+        "product": "Meals prepared at home or by family",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Working professionals",
+        "strengths": [
+          "Customizable",
+          "Potentially healthier"
+        ],
+        "weaknesses": [
+          "Time-consuming",
+          "Requires cooking skills",
+          "Not convenient"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://www.reddit.com/r/PuneFoodPorn/comments/1seupbn/best_home_cooked_meal_subscription"
+        ]
+      },
+      {
+        "name": "Meal Kit Delivery",
+        "competitor_type": "SUBSTITUTE",
+        "product": "Pre-portioned ingredients with recipes for home cooking",
+        "pricing": "Unknown / insufficient evidence",
+        "target_customer": "Busy professionals",
+        "strengths": [
+          "Convenience",
+          "Control over cooking"
+        ],
+        "weaknesses": [
+          "Requires cooking",
+          "Time to prepare",
+          "Not fully ready-to-eat"
+        ],
+        "differentiation": "Affordable calorie-controlled home-style meals",
+        "evidence": [
+          "https://www.bonappetit.com/story/best-meal-delivery-services"
+        ]
+      }
+    ],
+    "competitor_list": [],
+    "market_gaps": [],
+    "competitive_risks": [],
+    "differentiation_clarity": ""
+  },
+  "persona_analysis": {
+    "personas": [
+      {
+        "name": "Rahul Sharma",
+        "role": "Software Engineer",
+        "business_type": "IT Company",
+        "goals": [
+          "Maintain healthy weight",
+          "Save time on meals"
+        ],
+        "pain_points": [
+          "Limited cooking time",
+          "Inconsistent meal quality"
+        ],
+        "needs": [
+          "Calorie-controlled meals",
+          "Reliable delivery to office"
+        ],
+        "willingness_to_pay": "Will pay up to ₹600 per meal for consistent quality and convenience.",
+        "willingness_to_pay_confidence": ""
+      },
+      {
+        "name": "Priya Patel",
+        "role": "Marketing Manager",
+        "business_type": "Advertising Agency",
+        "goals": [
+          "Manage calorie intake",
+          "Affordable nutrition"
+        ],
+        "pain_points": [
+          "Lack of affordable healthy options",
+          "Difficulty managing calorie intake"
+        ],
+        "needs": [
+          "Affordable meal plans",
+          "Clear calorie labeling"
+        ],
+        "willingness_to_pay": "Will pay around ₹550 per meal if it offers clear calorie info and budget-friendly pricing.",
+        "willingness_to_pay_confidence": ""
+      }
+    ]
+  },
+  "pricing_analysis": {
+    "pricing_model": "Tier-Based Subscription",
+    "recommended_price": "₹550",
+    "pricing_tiers": [
+      {
+        "name": "Basic",
+        "price": "₹500",
+        "target_customer": "Entry-level professionals",
+        "included_features": [
+          "3 meals per week",
+          "Home-style meals",
+          "Calorie info"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "₹550",
+        "target_customer": "Mid-level professionals",
+        "included_features": [
+          "5 meals per week",
+          "Priority delivery",
+          "Weekly menu preview"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "₹600",
+        "target_customer": "Senior professionals",
+        "included_features": [
+          "7 meals per week",
+          "Personalized nutrition plan",
+          "Chef's special menu"
+        ]
+      }
+    ],
+    "pricing_rationale": [
+      "Aligns with willingness-to-pay and offers value differentiation",
+      "Provides clear cost structure for customers and predictable revenue"
+    ],
+    "pricing_risks": [
+      "Higher price may deter price-sensitive customers",
+      "Limited market data may lead to mispricing"
+    ],
+    "pricing_confidence": "MEDIUM",
+    "validation_experiment": "Run a pilot with 50 customers offering a 2-week trial at each tier and collect feedback on price sensitivity and feature value"
+  },
+  "evidence_ledger": {
+    "supported_claims": [
+      {
+        "claim": "Global healthy meal delivery market valued at USD 24.77 billion in 2024 with a 15 % CAGR to 2031",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Verify the market research report from a reputable source such as Statista or Grand View Research."
+      },
+      {
+        "claim": "Global healthy meal delivery market size reported as USD 10.58 billion in 2024",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Cross‑check with industry reports from market research firms."
+      },
+      {
+        "claim": "Asia Pacific accounted for USD 1.23 billion in 2025, projected to grow to USD 1.35 billion in 2026",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Obtain regional market analysis from a credible research provider."
+      },
+      {
+        "claim": "Subscription services in Pune saw a spike in new memberships post‑lockdown",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Review local market data or reports on subscription service growth in Pune."
+      },
+      {
+        "claim": "Urbanization and rising disposable income in India drive demand for food subscription services",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "HIGH",
+        "validation_action": "Confirm with economic reports on urbanization and disposable income trends in India."
+      },
+      {
+        "claim": "Subscription‑based delivery is a trend in the healthy meal delivery market",
+        "status": "SUPPORTED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Analyze industry trend reports that highlight subscription models in meal delivery."
+      }
+    ],
+    "inferred_claims": [
+      {
+        "claim": "Calorie‑controlled meal plans are a growing trend in healthy meal delivery",
+        "status": "INFERRED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Survey consumer preferences or analyze product offerings of leading meal delivery services."
+      },
+      {
+        "claim": "Home‑style cooking is a trend among consumers seeking authentic meal experiences",
+        "status": "INFERRED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Conduct focus groups or analyze menu offerings of competitors."
+      },
+      {
+        "claim": "Digital ordering platforms are essential for scaling a subscription meal service",
+        "status": "INFERRED",
+        "evidence": "",
+        "source": "",
+        "evidence_type": "",
+        "confidence": "MEDIUM",
+        "validation_action": "Benchmark the digital infrastructure of successful meal delivery startups."
+      }
+    ],
+    "assumptions": [],
+    "unknowns": [],
+    "overall_confidence": ""
+  },
+  "unit_economics": {
+    "is_applicable": true,
+    "business_model_type": "Consumer App (Subscription)",
+    "revenue_per_customer": "₹550",
+    "variable_cost": "Unknown — requires validation",
+    "contribution_margin": "Unknown — requires validation",
+    "gross_margin_estimate": "30-40%",
+    "estimated_cac": "Unknown — requires validation",
+    "estimated_ltv": "Unknown — requires validation",
+    "ltv_cac_ratio": "Unknown — requires validation",
+    "cac_payback_months": "Unknown — requires validation",
+    "aov_estimate": "₹550",
+    "repeat_purchase_rate": "Unknown — requires validation",
+    "unproven_financial_assumptions": [
+      "Cost of ingredients per meal",
+      "Delivery cost per order",
+      "Customer churn rate over 12 months",
+      "Average number of meals per subscription tier"
+    ],
+    "how_to_validate_unit_economics": [
+      "Track marketing spend and new subscriber acquisition to calculate CAC; record the number of new customers per campaign and divide total spend by that number.",
+      "Calculate variable cost per meal by summing ingredient, packaging, and delivery costs, then multiply by average meals per month to estimate monthly variable cost per customer.",
+      "Estimate LTV by multiplying average monthly revenue per customer by average customer lifespan (in months) and subtracting acquisition and ongoing variable costs; validate with actual retention data over time."
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "In-house home‑style kitchen reduces overhead",
+      "Calorie‑controlled meals meet health‑conscious demand"
+    ],
+    "weaknesses": [
+      "Limited geographic reach initially",
+      "Dependence on reliable delivery logistics"
+    ],
+    "opportunities": [
+      "Growing healthy meal market in India",
+      "Corporate partnership potential in Pune"
+    ],
+    "threats": [
+      "Competition from established meal delivery services",
+      "Regulatory changes in food safety"
+    ],
+    "structured_strengths": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_weaknesses": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_opportunities": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ],
+    "structured_threats": [
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      },
+      {
+        "text": "",
+        "status": "",
+        "evidence": "",
+        "confidence": "",
+        "validation_action": ""
+      }
+    ]
+  },
+  "mvp_analysis": {
+    "core_features": [
+      {
+        "name": "Subscription signup",
+        "priority": 1
+      },
+      {
+        "name": "Meal menu selection",
+        "priority": 2
+      },
+      {
+        "name": "Delivery scheduling",
+        "priority": 3
+      },
+      {
+        "name": "Order confirmation & tracking",
+        "priority": 4
+      },
+      {
+        "name": "Basic customer support",
+        "priority": 5
+      }
+    ],
+    "future_features": [
+      {
+        "name": "Custom meal customization",
+        "priority": 1
+      },
+      {
+        "name": "Loyalty rewards program",
+        "priority": 2
+      },
+      {
+        "name": "Mobile app",
+        "priority": 3
+      }
+    ],
+    "excluded_features": [
+      {
+        "name": "Real-time kitchen inventory management (avoid complexity)",
+        "priority": 10
+      },
+      {
+        "name": "Dynamic pricing algorithm (avoid complexity)",
+        "priority": 10
+      }
+    ],
+    "development_priority": [
+      {
+        "name": "Subscription signup",
+        "priority": 1
+      },
+      {
+        "name": "Meal menu selection",
+        "priority": 2
+      },
+      {
+        "name": "Delivery scheduling",
+        "priority": 3
+      },
+      {
+        "name": "Order confirmation & tracking",
+        "priority": 4
+      },
+      {
+        "name": "Basic customer support",
+        "priority": 5
+      }
+    ],
+    "mvp_rationale": [
+      {
+        "reason": "Validates subscription willingness and payment flow"
+      },
+      {
+        "reason": "Tests calorie-controlled meal demand and menu appeal"
+      },
+      {
+        "reason": "Confirms delivery logistics to office/home"
+      }
+    ]
+  },
+  "risk_failure_analysis": {
+    "critical_unknowns": [
+      {
+        "unknown": "Will the target market of working professionals in Pune be willing to pay the subscription price for calorie-controlled meals?",
+        "category": "Demand",
+        "impact": "HIGH",
+        "uncertainty": "HIGH",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Run a pilot subscription with a small cohort, measure sign-up and churn rates."
+      },
+      {
+        "unknown": "Can the logistics network deliver meals reliably within the promised time windows at scale?",
+        "category": "Technical",
+        "impact": "HIGH",
+        "uncertainty": "MEDIUM",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Build a delivery pilot for 100 orders per day, track on-time delivery and customer satisfaction."
+      },
+      {
+        "unknown": "Is the pricing model competitive against local alternatives while maintaining margin?",
+        "category": "Pricing",
+        "impact": "HIGH",
+        "uncertainty": "MEDIUM",
+        "priority_score": "CRITICAL",
+        "how_to_validate": "Conduct a price sensitivity survey and compare cost structure to competitors."
+      },
+      {
+        "unknown": "Will the subscription model sustain long-term retention given the novelty of meal delivery?",
+        "category": "Retention",
+        "impact": "MEDIUM",
+        "uncertainty": "HIGH",
+        "priority_score": "HIGH",
+        "how_to_validate": "Track churn over 3 months in pilot."
+      },
+      {
+        "unknown": "Are there regulatory constraints (food safety, licensing) that could impede operations?",
+        "category": "Regulatory",
+        "impact": "HIGH",
+        "uncertainty": "LOW",
+        "priority_score": "HIGH",
+        "how_to_validate": "Consult with local food safety authorities and obtain necessary permits."
+      }
+    ],
+    "failure_scenarios": [
+      {
+        "scenario": "High Acquisition Cost Squeeze",
+        "why_it_could_happen": "Aggressive marketing needed to acquire customers; CAC exceeds contribution margin.",
+        "evidence_or_precedent": "Similar startups in India saw CAC > $30 per customer.",
+        "impact": "HIGH",
+        "early_warning_signal": "CAC > $25 per customer",
+        "mitigation_strategy": "Optimize channels, implement referral program, focus on organic growth.",
+        "validation_experiment": "Run A/B on ad spend and measure CAC over 30 days."
+      },
+      {
+        "scenario": "Delivery Reliability Failure",
+        "why_it_could_happen": "Inadequate logistics network leads to late deliveries, causing dissatisfaction.",
+        "evidence_or_precedent": "Competitors like Swiggy faced delays and customer complaints.",
+        "impact": "HIGH",
+        "early_warning_signal": "On-time delivery rate < 80%",
+        "mitigation_strategy": "Partner with local couriers, build buffer capacity, monitor delivery times.",
+        "validation_experiment": "Pilot 50 deliveries and track on-time rate and customer feedback."
+      },
+      {
+        "scenario": "Pricing Misalignment",
+        "why_it_could_happen": "Price too high relative to perceived value; customers churn.",
+        "evidence_or_precedent": "Meal kit services in US saw churn when price > $10 per meal.",
+        "impact": "HIGH",
+        "early_warning_signal": "Churn > 20% after 1 month",
+        "mitigation_strategy": "Offer tiered plans, introduce flexible subscription options.",
+        "validation_experiment": "Test 3 price points with 100 customers each and compare churn."
+      },
+      {
+        "scenario": "Regulatory Compliance Failure",
+        "why_it_could_happen": "Food safety violations lead to shutdown or fines.",
+        "evidence_or_precedent": "Several food startups faced fines for non-compliance.",
+        "impact": "HIGH",
+        "early_warning_signal": "Inspection score < 80%",
+        "mitigation_strategy": "Hire compliance officer, conduct regular internal audits.",
+        "validation_experiment": "Perform internal audit and simulate regulatory inspection."
+      }
+    ]
+  },
+  "critical_unknowns": [
+    {
+      "unknown": "Will the target market of working professionals in Pune be willing to pay the subscription price for calorie-controlled meals?",
+      "category": "Demand",
+      "impact": "HIGH",
+      "uncertainty": "HIGH",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Run a pilot subscription with a small cohort, measure sign-up and churn rates."
+    },
+    {
+      "unknown": "Can the logistics network deliver meals reliably within the promised time windows at scale?",
+      "category": "Technical",
+      "impact": "HIGH",
+      "uncertainty": "MEDIUM",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Build a delivery pilot for 100 orders per day, track on-time delivery and customer satisfaction."
+    },
+    {
+      "unknown": "Is the pricing model competitive against local alternatives while maintaining margin?",
+      "category": "Pricing",
+      "impact": "HIGH",
+      "uncertainty": "MEDIUM",
+      "priority_score": "CRITICAL",
+      "how_to_validate": "Conduct a price sensitivity survey and compare cost structure to competitors."
+    },
+    {
+      "unknown": "Will the subscription model sustain long-term retention given the novelty of meal delivery?",
+      "category": "Retention",
+      "impact": "MEDIUM",
+      "uncertainty": "HIGH",
+      "priority_score": "HIGH",
+      "how_to_validate": "Track churn over 3 months in pilot."
+    },
+    {
+      "unknown": "Are there regulatory constraints (food safety, licensing) that could impede operations?",
+      "category": "Regulatory",
+      "impact": "HIGH",
+      "uncertainty": "LOW",
+      "priority_score": "HIGH",
+      "how_to_validate": "Consult with local food safety authorities and obtain necessary permits."
+    }
+  ],
+  "failure_scenarios": [
+    {
+      "scenario": "High Acquisition Cost Squeeze",
+      "why_it_could_happen": "Aggressive marketing needed to acquire customers; CAC exceeds contribution margin.",
+      "evidence_or_precedent": "Similar startups in India saw CAC > $30 per customer.",
+      "impact": "HIGH",
+      "early_warning_signal": "CAC > $25 per customer",
+      "mitigation_strategy": "Optimize channels, implement referral program, focus on organic growth.",
+      "validation_experiment": "Run A/B on ad spend and measure CAC over 30 days."
+    },
+    {
+      "scenario": "Delivery Reliability Failure",
+      "why_it_could_happen": "Inadequate logistics network leads to late deliveries, causing dissatisfaction.",
+      "evidence_or_precedent": "Competitors like Swiggy faced delays and customer complaints.",
+      "impact": "HIGH",
+      "early_warning_signal": "On-time delivery rate < 80%",
+      "mitigation_strategy": "Partner with local couriers, build buffer capacity, monitor delivery times.",
+      "validation_experiment": "Pilot 50 deliveries and track on-time rate and customer feedback."
+    },
+    {
+      "scenario": "Pricing Misalignment",
+      "why_it_could_happen": "Price too high relative to perceived value; customers churn.",
+      "evidence_or_precedent": "Meal kit services in US saw churn when price > $10 per meal.",
+      "impact": "HIGH",
+      "early_warning_signal": "Churn > 20% after 1 month",
+      "mitigation_strategy": "Offer tiered plans, introduce flexible subscription options.",
+      "validation_experiment": "Test 3 price points with 100 customers each and compare churn."
+    },
+    {
+      "scenario": "Regulatory Compliance Failure",
+      "why_it_could_happen": "Food safety violations lead to shutdown or fines.",
+      "evidence_or_precedent": "Several food startups faced fines for non-compliance.",
+      "impact": "HIGH",
+      "early_warning_signal": "Inspection score < 80%",
+      "mitigation_strategy": "Hire compliance officer, conduct regular internal audits.",
+      "validation_experiment": "Perform internal audit and simulate regulatory inspection."
+    }
+  ],
+  "validation_experiments": [
+    {
+      "hypothesis": "At least 30% of Pune IT professionals will subscribe to the ₹550 tier within the first month.",
+      "experiment": "Run a landing page with a pre‑order deposit button and track paid deposits.",
+      "target_audience": "IT professionals in Hinjewadi and Kharadi IT parks.",
+      "sample_size": "200 landing page visits",
+      "success_metric": ">=60 paid deposits",
+      "failure_threshold": "<20 paid deposits",
+      "estimated_effort": "5 days",
+      "expected_learning": "Willingness to pay and price sensitivity of target cohort",
+      "decision_if_pass": "Build full subscription flow and launch MVP",
+      "decision_if_fail": "Lower price or add value proposition such as free delivery"
+    },
+    {
+      "hypothesis": "90% of deliveries will arrive within the promised 2‑hour window.",
+      "experiment": "Pilot 50 deliveries with time‑tracking and customer confirmation.",
+      "target_audience": "Subscribed customers in Pune central area",
+      "sample_size": "50 deliveries",
+      "success_metric": ">=45 deliveries within window",
+      "failure_threshold": "<35 deliveries within window",
+      "estimated_effort": "7 days",
+      "expected_learning": "Logistics feasibility and partner reliability",
+      "decision_if_pass": "Scale logistics network",
+      "decision_if_fail": "Reassess delivery partners or adjust time window"
+    },
+    {
+      "hypothesis": "Our price is at least 10% lower than the average local meal delivery while maintaining a margin >20%.",
+      "experiment": "Conduct a market survey of 30 local meal delivery services and calculate average price and margin.",
+      "target_audience": "Local meal delivery customers in Pune",
+      "sample_size": "30 services",
+      "success_metric": "Price difference >=10% and margin >20%",
+      "failure_threshold": "Price difference <5% or margin <15%",
+      "estimated_effort": "3 days",
+      "expected_learning": "Competitive pricing position and cost structure viability",
+      "decision_if_pass": "Maintain current pricing",
+      "decision_if_fail": "Adjust cost structure or pricing strategy"
+    },
+    {
+      "hypothesis": "70% of first‑time subscribers will renew after 3 months.",
+      "experiment": "Track 50 new subscribers over 3 months and record renewal rate.",
+      "target_audience": "First‑time subscribers",
+      "sample_size": "50 subscribers",
+      "success_metric": ">=35 renewals",
+      "failure_threshold": "<20 renewals",
+      "estimated_effort": "90 days",
+      "expected_learning": "Retention viability of subscription model",
+      "decision_if_pass": "Invest in retention features and loyalty program",
+      "decision_if_fail": "Redesign subscription model or add incentives"
+    }
+  ],
+  "founder_action_plan": {
+    "seven_day_plan": [
+      "Conduct 20 in‑person interviews with Pune professionals about meal preferences and price sensitivity",
+      "Build a minimal landing page with subscription sign‑up and pre‑order deposit button",
+      "Run a competitor audit of 5 local meal delivery services and document pricing and delivery times",
+      "Set up Google Analytics and track conversion funnel from landing page to deposit",
+      "Draft a basic menu and pricing sheet for the ₹550 tier",
+      "Identify potential local kitchen partners and initiate contact"
+    ],
+    "thirty_day_plan": [
+      "Launch concierge MVP with 30 customers in Pune central area",
+      "Set up delivery logistics with a local partner and test 10 deliveries per day",
+      "Collect feedback via post‑delivery survey and analyze satisfaction scores",
+      "Measure CAC and LTV from pilot data and calculate unit economics",
+      "Iterate menu based on feedback (e.g., add vegetarian options)",
+      "Optimize subscription flow in the app and reduce friction points"
+    ],
+    "ninety_day_plan": [
+      "Analyze unit economics (cost per meal, margin, break‑even point)",
+      "Run retention cohort analysis to identify churn drivers",
+      "Add feature: meal customization and dietary preference selection",
+      "Scale to 200 customers and expand delivery zones",
+      "Explore partnership with corporate offices for bulk subscriptions",
+      "Decide on scaling strategy vs pivot based on data and market response"
+    ]
+  },
+  "evaluation": {
+    "market_demand": {
+      "score": 7,
+      "confidence": "MEDIUM",
+      "reason": "Global healthy meal delivery market is large and growing, suggesting potential demand in Pune, but local market data is lacking.",
+      "evidence": [
+        {
+          "claim": "44 Appendix B Standardized loadings of survey items in confirmatory factor analysis Items loading Marketing self-efficacy Set and meet market share goals 0.80 Set and meet sales goals 0.84 Set and attain profit goals 0.83 Establish a position in the product market 0.69 Conduct market analysis 0.62 Expand business 0.74 Market information acquisition frequency meet with customers to find out what products or services they will need in the future. 0.88 interact directly with customers to learn how...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "43",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "activities can ‘change the rules of the game’ and foster opportunity identification (Luksha 2008; Sine and David 2003). These changes can either create new mar - kets in an industry or trigger the emergence of entirely new industries (Bygrave and Minniti 2000). Several studies have recently found that contextual changes are par - ticularly triggered by the emergence of technological innovations (Autio et al. 2018; Woolley 2014; Zahra 2008). Woolley (2014) points out that the emergence of nano-...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Pune professionals mirror global healthy meal trends",
+        "Local delivery infrastructure supports demand"
+      ],
+      "unknowns": [
+        "Actual subscription uptake in Pune",
+        "Price sensitivity of target segment"
+      ],
+      "validation_action": "Conduct a city‑wide survey of 500 working professionals to quantify willingness to subscribe and price sensitivity."
+    },
+    "customer_need": {
+      "score": 6,
+      "confidence": "LOW",
+      "reason": "Problem statement identifies time and affordability constraints, but no direct customer validation evidence is provided.",
+      "evidence": [
+        {
+          "claim": "intelligence about current and future needs of customers and utilize it in organizational decisions —than large organizations (Kohli, Jaworski, & Kumar, 1993; Raju, Lonial, & Crum, 2011) . A common explanation is that entrepreneurs “do not have the time or resources for marketing” (Stokes, 2000, p. 6) . Interaction with potential customers to acquire market",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "1",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "3721 The concept of entrepreneurial opportunities: a review and… Gruber M, Kim SM, Brinckmann J (2015) What is an attractive business opportunity? An empirical study of opportunity evaluation decisions by technologists, managers, and entrepreneurs. Strateg Entrep J 9:205–225 Hagen M, Su W, Junge S (2023) 60th birthday of ‘A Behavioral Theory of the Firm’: a review of the relational concepts and recommendations for future research. Springer International Publishing, Management Review Quarterly...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "22",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Professionals prioritize health over cost",
+        "They value calorie‑controlled home‑style meals"
+      ],
+      "unknowns": [
+        "Actual pain points of Pune professionals",
+        "How many would pay for subscription"
+      ],
+      "validation_action": "Run focus groups with 30 target customers to confirm pain points and willingness to pay."
+    },
+    "competition": {
+      "score": 4,
+      "confidence": "LOW",
+      "reason": "Only one competitor identified with insufficient pricing data; competitive landscape in Pune is largely unknown.",
+      "evidence": [
+        {
+          "claim": "meet with customers to find out what products or services they will need in the future. 0.97 interact directly with customers to learn how to serve them better. 0.96 survey end users to assess the quality of your products, services, and ideas. 0.92 talk with those who can influence your end users' purchases (e.g., retailers, distributors) 0.92 Market information acquisition contacts (number of people) meet with customers to find out what products or services they will need in the future. 0.95...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "43",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "to the speciﬁc customer demands [ 28]. Interface: This dimension contains the impact factors platform access (P4) and bound- ary resources (BR) (P5). Both are closely related to providing services and access to the underlying platform. The platform access may vary between openness and restrictions set by the platform provider. Against this background, platform openness can signiﬁ- cantly inﬂuence the platform’s attractiveness, directly impacting the price [ 29, 30]. P5 indicates that payment...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "125",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ],
+      "assumptions": [
+        "Existing meal delivery services are not differentiated enough",
+        "PuneFit can capture niche"
+      ],
+      "unknowns": [
+        "Number and strength of local competitors",
+        "Their pricing and service quality"
+      ],
+      "validation_action": "Map all Pune‑based meal delivery services, collect pricing and service data, and assess differentiation."
+    },
+    "business_potential": {
+      "score": 6,
+      "confidence": "LOW",
+      "reason": "Large global market suggests potential, but local scalability and corporate partnership prospects are unverified.",
+      "evidence": [
+        {
+          "claim": "could significantly enhance the field of research. We hope that my review clarifies and elucidates existing literature and that it inspires future research on entrepreneur- ial opportunities. Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s11301- 024- 00466-5. Funding Open Access funding enabled and organized by Projekt DEAL. Data availability The online appendix provides a complete and detailed overview of all studies...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "18",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        },
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ],
+      "assumptions": [
+        "Corporate offices in Pune will adopt subscription model",
+        "Revenue per subscriber is sustainable"
+      ],
+      "unknowns": [
+        "Revenue per user in Pune",
+        "Growth rate of corporate partnerships"
+      ],
+      "validation_action": "Pilot partnership with 3 corporate offices and track subscription uptake and churn."
+    },
+    "pricing_potential": {
+      "score": 5,
+      "confidence": "LOW",
+      "reason": "Proposed ₹550 per meal lacks evidence of willingness to pay; price may deter price‑sensitive customers.",
+      "evidence": [
+        {
+          "claim": "3) Tier-Based Pricing 4) User-Based Pricing 5) Feature-Based Pricing 6) Credit-Based Pricing 7) Hybrid Pricing [45] “The pricing model is a method used by a company to determine the prices for its products or services. A company must consider factors such as the positioning of its products and services as well as production costs when setting the prices of its goods and services” Eight types: 1) Per User Pricing 2) Per Storage Pricing 3) Per Feature Pricing 4) Freemium 5) Price Per Contact /...",
+          "source_title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "",
+          "source": "1-s2.0-S095058492100001X-main.pdf"
+        }
+      ],
+      "assumptions": [
+        "₹550 is within acceptable range for target segment",
+        "Cost structure allows margin at this price"
+      ],
+      "unknowns": [
+        "Actual price elasticity",
+        "Cost per meal including delivery"
+      ],
+      "validation_action": "Run a price sensitivity test with 200 potential customers offering tiered pricing options."
+    },
+    "feasibility": {
+      "score": 5,
+      "confidence": "LOW",
+      "reason": "Logistics, kitchen, and delivery operations are critical but no operational data or cost estimates are provided.",
+      "evidence": [
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        },
+        {
+          "claim": "lenges. Efﬁcient pricing requires developing sophisticated multi-layered structures with many different mechanisms and options, considering the trade-offs, objectives, and out- comes that pricing must meet. Informed SaaS pricing decision-making requires the involvement of different stakeholders and the consideration of many factors that include market characteristics, product and technology speciﬁcations, customers, and customer © The Author(s) 2021 P . Gregory and P . Kruchten (Eds.): XP 2021...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "93",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ],
+      "assumptions": [
+        "Local delivery partners can meet reliability targets",
+        "Kitchen can scale to meet demand"
+      ],
+      "unknowns": [
+        "Delivery cost per meal",
+        "Kitchen capacity and regulatory compliance"
+      ],
+      "validation_action": "Build a small‑scale pilot kitchen and delivery network to measure costs and delivery times."
+    },
+    "mvp_clarity": {
+      "score": 7,
+      "confidence": "MEDIUM",
+      "reason": "Core features (subscription signup, menu selection, delivery scheduling) are clearly defined, but implementation details are missing.",
+      "evidence": [
+        {
+          "claim": "products using only the effortlessly quanti ﬁable feedback, and neglecting the rest. Instead of using the accumulated customer feedback and holistically asses their products, the validation of customer value becomes a “self-fulﬁlling prophecy ” in that it focuses on developing and verifying things that can be quanti ﬁed and provide tan- gible evidence. The Lack of Sharing of Customer Data 47",
+          "source_title": "",
+          "source_type": "RAG research",
+          "page": "59",
+          "doi": "",
+          "source": "978-3-319-33515-5.pdf"
+        },
+        {
+          "claim": "logical upheaval” (Dutta and Crossan 2005: 429). Based on this, researchers have argued that “identifying new products, new markets, new ways of organizing, and new production processes in response to (technological) change are key factors” of entrepreneurship research (Eckhardt and Shane 2003: 413). Contrary to the Schumpeterian view, Kirzner (1979) emphasizes entrepreneurial alertness as a critical economic driver (Valliere 2013). As some individuals (i.e., entrepreneurs) possess a specific...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "2",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ],
+      "assumptions": [
+        "Existing tech stack can support MVP features",
+        "Users will find the interface intuitive"
+      ],
+      "unknowns": [
+        "Technical feasibility of integrating delivery scheduling",
+        "User adoption of MVP features"
+      ],
+      "validation_action": "Develop a prototype MVP and conduct usability testing with 20 target users."
+    },
+    "overall_confidence": "LOW"
+  },
+  "critic_report": {
+    "is_valid": true,
+    "hallucinations_detected": false,
+    "unsupported_claims": [],
+    "contradictions_found": [],
+    "confidence_adjustment": "NO_CHANGE",
+    "critic_notes": "Quality audit completed with baseline checks."
+  },
+  "scoring_result": {
+    "weighted_scores": {
+      "market_demand": 14.0,
+      "customer_need": 12.0,
+      "competition": 6.0,
+      "business_potential": 9.0,
+      "pricing_potential": 5.0,
+      "feasibility": 5.0,
+      "mvp_clarity": 7.0
+    },
+    "overall_score": 58.0,
+    "overall_confidence": "LOW",
+    "verdict": "Weak Potential"
+  }
+}

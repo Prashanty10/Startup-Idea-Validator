@@ -1,0 +1,438 @@
+{
+  "startup_idea": "BrandHive is a smart advertising marketplace that connects businesses and advertisers with advertising space owners. It allows users to discover, compare, and book different advertising opportunities such as hoardings, malls, buses, autos, digital screens, social media, and websites from a single platform.\n\nBusinesses can search for advertising spaces based on location, budget, category, availability, and audience, while space owners can list their available spaces and manage bookings. BrandHive aims to make advertising simpler, more accessible, transparent, and efficient for both advertisers and space owners.",
+  "target_country": "India",
+  "target_region": "Maharashtra",
+  "idea_analysis": {
+    "problem": "Advertisers and space owners lack a unified platform to discover, compare, and book advertising spaces efficiently.",
+    "proposed_solution": "BrandHive offers a smart marketplace that aggregates diverse advertising opportunities and enables search, comparison, and booking in one place.",
+    "target_industry": "Advertising and media",
+    "target_customer": "Businesses seeking advertising space and space owners listing their inventory",
+    "business_model": "Commission-based marketplace fee on bookings",
+    "key_value_proposition": "Simplifies and increases transparency and efficiency for advertisers and space owners by centralizing options and streamlining booking",
+    "assumptions": [
+      "Advertisers need to compare multiple media types",
+      "Space owners are willing to list inventory online",
+      "Market accepts a commission-based model"
+    ]
+  },
+  "market_research": {
+    "market_demand": "Growing need for unified digital booking of diverse advertising spaces in India, especially in Maharashtra, as advertisers seek efficiency and transparency.",
+    "industry_trends": [
+      "Rise of digital marketplaces for OOH and media inventory",
+      "Shift to online booking and real‑time inventory management",
+      "Increased demand for multi‑channel advertising platforms"
+    ],
+    "target_market": "Small to medium businesses and agencies in Maharashtra looking for hoardings, malls, buses, digital screens, and online media; and space owners (property owners, transport operators, digital screen operators) wanting to monetize inventory.",
+    "growth_drivers": [
+      "Urbanization and rising advertising spend in Maharashtra",
+      "Digital transformation of OOH media",
+      "Demand for data‑driven ad placement",
+      "Cost savings from eliminating manual booking"
+    ],
+    "customer_problems": [
+      "Fragmented booking process across multiple channels",
+      "Lack of price transparency",
+      "Time‑consuming manual coordination",
+      "Difficulty comparing inventory and audience reach"
+    ],
+    "opportunities": [
+      "Create a single platform aggregating OOH and digital inventory",
+      "Offer real‑time availability and pricing",
+      "Provide analytics and audience targeting",
+      "Enable automated booking and payment"
+    ],
+    "evidence": [
+      {
+        "claim": "HoardSpace demonstrates market demand for digital OOH marketplaces",
+        "source": "LatestLY article on HoardSpace"
+      },
+      {
+        "claim": "Advertisers face fragmented booking and manual processes",
+        "source": "HoardSpace article describing manual sheets and phone calls"
+      },
+      {
+        "claim": "New ventures need efficient market intelligence to allocate limited resources",
+        "source": "ssrn-5487630.pdf"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "competitor_list": [
+      {
+        "name": "HoardSpace",
+        "product": "Digital marketplace for outdoor advertising (hoardings, billboards, OOH media)",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Nationwide inventory, seamless quick digital booking, transparency"
+        ],
+        "weaknesses": [
+          "Focus limited to outdoor advertising, may lack digital/online media"
+        ],
+        "evidence": [
+          "HoardSpace is a digital marketplace simplifying outdoor advertising by enabling advertisers, agencies, brands, and media owners to discover, compare, book, and manage hoardings, billboards, and other OOH media through a single transparent platform. By combining nationwide inventory with a seamless quick digital booking experience, the company aims to make outdoor advertising more accessible, efficient, and organised across India."
+        ]
+      },
+      {
+        "name": "Space Ads",
+        "product": "Marketplace connecting advertisers with physical media asset owners (digital screens, gyms, retail venues, stadiums, roadside locations)",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Bridges gap between advertisers and media owners, monetization of digital screens"
+        ],
+        "weaknesses": [
+          "Limited to digital screens and specific venues, may not cover outdoor billboards"
+        ],
+        "evidence": [
+          "Space Ads is the marketplace that connects advertisers with physical media asset owners. List your digital screens or find the perfect ad space for your brand. Space Ads is the revolutionary platform that bridges the gap between advertisers seeking premium display opportunities and media asset owners looking to monetize their digital screens."
+        ]
+      }
+    ],
+    "market_gaps": [
+      "Integrated platform covering both outdoor and digital media, including hoardings, malls, buses, autos, digital screens, social media, and websites",
+      "Local focus on Maharashtra with tailored inventory and pricing for small to medium businesses",
+      "Transparent, real‑time inventory and booking for all media types",
+      "Competitive commission structure for small agencies and businesses"
+    ],
+    "competitive_risks": [
+      "Established players with nationwide reach and brand recognition",
+      "Potential for new entrants leveraging technology to offer similar marketplaces",
+      "Price competition due to lack of publicly disclosed pricing models",
+      "Dependence on accurate inventory data and real‑time updates"
+    ]
+  },
+  "persona_analysis": {
+    "personas": [
+      {
+        "name": "Rohit Sharma",
+        "role": "Marketing Manager",
+        "business_type": "Small retail chain",
+        "goals": [
+          "Increase local brand visibility",
+          "Optimize ad spend"
+        ],
+        "pain_points": [
+          "Fragmented booking across channels",
+          "Lack of price transparency"
+        ],
+        "needs": [
+          "Unified platform",
+          "Real‑time inventory"
+        ],
+        "willingness_to_pay": "Will pay up to ₹10,000 per campaign if ROI is clear."
+      },
+      {
+        "name": "Sunita Patel",
+        "role": "Property Owner",
+        "business_type": "Mall property owner",
+        "goals": [
+          "Monetize unused space",
+          "Simplify booking process"
+        ],
+        "pain_points": [
+          "Time‑consuming manual coordination",
+          "Difficulty comparing inventory"
+        ],
+        "needs": [
+          "Automated listing",
+          "Transparent pricing"
+        ],
+        "willingness_to_pay": "Will pay a 5% commission on bookings."
+      }
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Integrated marketplace covering OOH and digital media in one platform",
+      "Real‑time availability and pricing data for advertisers",
+      "Analytics and audience targeting tools for campaign optimization",
+      "Local focus on Maharashtra with tailored inventory and pricing for SMEs"
+    ],
+    "weaknesses": [],
+    "opportunities": [],
+    "threats": []
+  },
+  "pricing_analysis": {
+    "pricing_model": "Commission-based marketplace fee",
+    "recommended_price": "5% per booking",
+    "pricing_tiers": [
+      {
+        "name": "Basic",
+        "price": "10% per booking",
+        "target_customer": "Space Owners (small inventory)",
+        "included_features": [
+          "Listing on marketplace",
+          "Basic booking management",
+          "Standard support"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "7% per booking",
+        "target_customer": "Space Owners (medium inventory)",
+        "included_features": [
+          "Priority listing",
+          "Advanced booking analytics",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "5% per booking",
+        "target_customer": "Space Owners (large inventory)",
+        "included_features": [
+          "Featured placement",
+          "Full analytics dashboard",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "pricing_rationale": [
+      "Aligns with property owners’ willingness to pay and offers competitive commission rates",
+      "Tiered structure incentivizes larger inventory and higher booking volume"
+    ],
+    "pricing_risks": [
+      "Market may prefer lower commission rates, risking loss of listings",
+      "High commission may deter advertisers, reducing transaction volume"
+    ]
+  },
+  "mvp_analysis": {
+    "core_features": [
+      {
+        "name": "User Authentication & Role Management",
+        "priority": 1
+      },
+      {
+        "name": "Listing CRUD for Space Owners",
+        "priority": 2
+      },
+      {
+        "name": "Search & Filter Inventory",
+        "priority": 3
+      },
+      {
+        "name": "Booking & Payment Flow",
+        "priority": 4
+      }
+    ],
+    "future_features": [
+      {
+        "name": "Analytics Dashboard",
+        "priority": 1
+      },
+      {
+        "name": "AI Recommendation Engine",
+        "priority": 2
+      },
+      {
+        "name": "Social Media Integration",
+        "priority": 3
+      }
+    ],
+    "excluded_features": [
+      {
+        "name": "In-app Creative Editor",
+        "priority": 99
+      },
+      {
+        "name": "Advanced Reporting Analytics",
+        "priority": 99
+      }
+    ],
+    "development_priority": [
+      {
+        "name": "User Authentication & Role Management",
+        "priority": 1
+      },
+      {
+        "name": "Listing CRUD for Space Owners",
+        "priority": 2
+      },
+      {
+        "name": "Search & Filter Inventory",
+        "priority": 3
+      },
+      {
+        "name": "Booking & Payment Flow",
+        "priority": 4
+      },
+      {
+        "name": "Real-time Availability Sync",
+        "priority": 5
+      }
+    ],
+    "mvp_rationale": [
+      {
+        "reason": "Validate unified marketplace demand"
+      },
+      {
+        "reason": "Test commission-based revenue model"
+      },
+      {
+        "reason": "Confirm space owners' willingness to list inventory online"
+      }
+    ]
+  },
+  "idea_valid": true,
+  "idea_quality_message": "",
+  "evaluation": {
+    "market_demand": {
+      "score": 6,
+      "reason": "Moderate demand – growing need for unified booking in Maharashtra, but no proven large volume yet.",
+      "evidence": [
+        {
+          "claim": "5 challenge by exploring what kind of entrepreneurs are less likely to acquire market information so that targeted support and services can be provided to enhance the market orientation of new ventures. Furthermore, by investigating how many resources allocated to acquire market information are optimal for new venture performance , this study sheds light on entrepreneurial marketing using the lean startup approach . 2. Theory and hypotheses Acquiring market information requires the investment...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "Kwon SW, Arenius P (2010) Nations of entrepreneurs: a social capital perspective. J Bus Ventur 25:315–330 Langlois RN (2007) The entrepreneurial theory of the firm and the theory of the entrepreneurial firm. J Manage Stud 44:1107–1124 Lee JH, Venkataraman S (2006) Aspirations, market offerings, and the pursuit of entrepreneurial oppor - tunities. J Bus Ventur 21:107–123 Lerner DA (2016) Behavioral disinhibition and nascent venturing: relevance and initial effects on poten- tial resource...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "22",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    },
+    "customer_need": {
+      "score": 8,
+      "reason": "Clear, frequent problem of fragmented booking and lack of transparency for SMB advertisers.",
+      "evidence": [
+        {
+          "claim": "or services they will need ,” “interact directly with customers to learn how to serve them better,” “assess the quality of your products, services, and ideas to the users ,” and “talk with those who can influence your end users' purchases (e.g., retailers, distributors)” (1 = less than once a year , 2 = a few times a year , 3 = monthly, 4 = weekly, 5 = daily, α = .86). To measure the magnitude of resources allocated to market information acquisition , we followed the example of previous...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "14",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "3707 The concept of entrepreneurial opportunities: a review and… asymmetries can refer to the ability to acquire information (Dyer et al. 2008), to pro- cess information (Vaghely and Julien 2010), and to interpret this information (Bar - reto 2012). Moreover, the abilities of enhanced pattern recognition (Baron 2007; Baron and Ensley 2006), problem identification and problem solving (Hsieh et al. 2007), user perspective taking (Prandelli et al. 2016), imprinting, and reflexivity (Suddaby et al....",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "8",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    },
+    "competition": {
+      "score": 7,
+      "reason": "Distinct differentiation by covering OOH and digital, local focus, but significant incumbents exist.",
+      "evidence": [
+        {
+          "claim": "meet with customers to find out what products or services they will need in the future. 0.97 interact directly with customers to learn how to serve them better. 0.96 survey end users to assess the quality of your products, services, and ideas. 0.92 talk with those who can influence your end users' purchases (e.g., retailers, distributors) 0.92 Market information acquisition contacts (number of people) meet with customers to find out what products or services they will need in the future. 0.95...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "43",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        },
+        {
+          "claim": "maximization, and winning the competition. A value-based pricing approach, to a large extent, is supplemented with market-based pricing. Companies of this type also often adopt the freemium model and a free model with monetization other than charging customers (i.e., advertisement). Adjusting for the level of company and SaaS solution maturity, the pricing-related processes can be highly formalized, driven by data analytics, and even automated. Generalist SaaS pricing is often implemented in...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "98",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ]
+    },
+    "business_potential": {
+      "score": 7,
+      "reason": "Commission model offers good margins, scalable platform, but requires building inventory and faces competition.",
+      "evidence": [
+        {
+          "claim": "3709 The concept of entrepreneurial opportunities: a review and… the exploitation of high-risk opportunities, whereas founders with industry experi- ence favored low-risk opportunities (Dencker and Gruber 2015). In regards to resources, research particularly highlights the importance of finan- cial capital (Drover et al. 2017; Pollack et al. 2021). Individuals can gain access to financial capital via entrepreneurial equity investments of venture capitalists, cor - porate venture capitalists,...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "10",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        },
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ]
+    },
+    "pricing_potential": {
+      "score": 6,
+      "reason": "5% commission realistic, but price-sensitive advertisers may push for lower rates.",
+      "evidence": [
+        {
+          "claim": "3) Tier-Based Pricing 4) User-Based Pricing 5) Feature-Based Pricing 6) Credit-Based Pricing 7) Hybrid Pricing [45] “The pricing model is a method used by a company to determine the prices for its products or services. A company must consider factors such as the positioning of its products and services as well as production costs when setting the prices of its goods and services” Eight types: 1) Per User Pricing 2) Per Storage Pricing 3) Per Feature Pricing 4) Freemium 5) Price Per Contact /...",
+          "source_title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+          "source_type": "RAG research",
+          "page": "12",
+          "doi": "",
+          "source": "1-s2.0-S095058492100001X-main.pdf"
+        }
+      ]
+    },
+    "feasibility": {
+      "score": 7,
+      "reason": "Technical MVP is straightforward; operational risk moderate due to onboarding and payment handling.",
+      "evidence": [
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        },
+        {
+          "claim": "models primarily in terms of the exponential relationship between the value and the number of users of a platform, the value creation in ecosystems, and the ability to inter- operate with other services. Since the VISOR framework emphasizes the importance of digital platforms’ central role, the need to orchestrate multiple actors in ecosystems, and consider the multitude of interfaces (as customer touchpoints), it seems suitable to align the derived impact factors with the dimensions of the...",
+          "source_title": "Agile Processes in Software Engineering and Extreme Programming – Workshops",
+          "source_type": "RAG research",
+          "page": "123",
+          "doi": "",
+          "source": "978-3-030-88583-0.pdf"
+        }
+      ]
+    },
+    "mvp_clarity": {
+      "score": 8,
+      "reason": "Focused MVP with core features that can be tested quickly.",
+      "evidence": [
+        {
+          "claim": "term of startup goals and motivation over time (Company A), or pitch and presentation skill to attract interest from investors and customers (Company B). We observe at least in these cases that MVPs play the role of bridging these gaps. Our research revealed different ways that MVPs can be used to support startup business activities. However, they are not equally perceived among all startups. For instance, only in Case B most of the MVP usages were identi ﬁed. Moreover, tactics with using MVP...",
+          "source_title": "",
+          "source_type": "RAG research",
+          "page": "140",
+          "doi": "",
+          "source": "978-3-319-33515-5.pdf"
+        },
+        {
+          "claim": "Kwon SW, Arenius P (2010) Nations of entrepreneurs: a social capital perspective. J Bus Ventur 25:315–330 Langlois RN (2007) The entrepreneurial theory of the firm and the theory of the entrepreneurial firm. J Manage Stud 44:1107–1124 Lee JH, Venkataraman S (2006) Aspirations, market offerings, and the pursuit of entrepreneurial oppor - tunities. J Bus Ventur 21:107–123 Lerner DA (2016) Behavioral disinhibition and nascent venturing: relevance and initial effects on poten- tial resource...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "22",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        }
+      ]
+    }
+  },
+  "scoring_result": {
+    "weighted_scores": {
+      "market_demand": 12.0,
+      "customer_need": 16.0,
+      "competition": 10.5,
+      "business_potential": 10.5,
+      "pricing_potential": 6.0,
+      "feasibility": 7.0,
+      "mvp_clarity": 8.0
+    },
+    "overall_score": 70.0,
+    "verdict": "Moderate Potential"
+  }
+}

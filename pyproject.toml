@@ -1,0 +1,84 @@
+# 🚀 Startup Validator AI
+
+An AI-powered startup idea validation system that analyzes a startup concept across market demand, competition, customer personas, pricing, MVP scope, business potential, and overall feasibility.
+
+---
+
+## 📌 Overview
+
+Startup Validator AI helps founders evaluate a startup idea before investing significant time and resources into building it.
+
+The user provides:
+
+- Startup idea / concept
+- Target country
+- Target region or state
+
+The system then processes the idea through multiple AI analysis stages and generates a structured validation report.
+
+---
+
+## 🎯 Objective
+
+The main objective is to build an AI-powered decision-support system that helps answer questions such as:
+
+- Is there a real market demand?
+- What customer problem is being solved?
+- Who are the target customers?
+- Who are the competitors?
+- What gaps exist in the market?
+- What pricing model could work?
+- Is the idea technically and operationally feasible?
+- What should the MVP contain?
+- What are the major strengths, weaknesses, opportunities, and threats?
+- How strong is the startup idea overall?
+
+---
+
+# 🏗️ System Architecture
+
+```text
+                    USER
+                      |
+                      v
+              React Frontend
+                      |
+                      | HTTP POST
+                      v
+              FastAPI Backend
+                      |
+                      v
+           Startup Validation Pipeline
+                      |
+        +-------------+-------------+
+        |             |             |
+        v             v             v
+   Idea Analysis   Market       Competitor
+                  Research       Analysis
+        |             |             |
+        +-------------+-------------+
+                      |
+        +-------------+-------------+
+        |             |             |
+        v             v             v
+     Personas        SWOT        Pricing
+        |             |             |
+        +-------------+-------------+
+                      |
+                      v
+                    MVP
+                      |
+                      v
+              RAG Knowledge Base
+                      |
+                      v
+              Evidence Retrieval
+                      |
+                      v
+             7-Point Evaluation
+                      |
+                      v
+              Overall Validation
+                      |
+                      v
+              React Dashboard

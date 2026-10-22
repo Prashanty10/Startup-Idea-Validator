@@ -1,0 +1,418 @@
+{
+  "startup_idea": "Healthy meal delivery service for working professionals in Pune offering affordable calorie-controlled home-style meals",
+  "target_country": "India",
+  "target_region": "Pune",
+  "idea_analysis": {
+    "problem": "Working professionals in Pune lack time and affordable healthy meal options.",
+    "proposed_solution": "Provide calorie-controlled, home-style meals delivered to their homes.",
+    "target_industry": "Food delivery",
+    "target_customer": "Working professionals in Pune",
+    "business_model": "Subscription-based meal delivery with affordable pricing",
+    "key_value_proposition": "Affordable, calorie-controlled, home-style meals delivered to busy professionals",
+    "assumptions": [
+      "Working professionals prioritize health and convenience",
+      "Pune has a sizable working professional population",
+      "Affordable pricing will attract customers"
+    ]
+  },
+  "market_research": {
+    "market_demand": "High demand among Pune’s working professionals for convenient, affordable, calorie‑controlled meals",
+    "industry_trends": [
+      "Digital ordering via mobile apps",
+      "Subscription‑based meal plans",
+      "Personalized nutrition and AI integration",
+      "Home‑style cooking focus"
+    ],
+    "target_market": "Busy professionals in Pune, India, aged 25‑45, who lack time to cook and seek healthy, budget‑friendly meals",
+    "growth_drivers": [
+      "Rising health consciousness",
+      "Urbanization and busy lifestyles",
+      "Growth of food‑delivery platforms",
+      "Demand for personalized meal plans"
+    ],
+    "customer_problems": [
+      "Limited time to prepare meals",
+      "Scarcity of affordable healthy options",
+      "Difficulty maintaining calorie control",
+      "Reliance on fast food or office canteens"
+    ],
+    "opportunities": [
+      "Subscription model offering calorie‑controlled home‑style meals",
+      "Leveraging mobile app for ordering and tracking nutrition",
+      "Partnering with local home cooks for authentic meals",
+      "Expanding to nearby regions in Maharashtra"
+    ],
+    "evidence": [
+      {
+        "claim": "Tiffit delivers home‑cooked meals to working professionals in Pune",
+        "source": "https://www.tiffit.com/locations/homemade-food-delivery-pune"
+      },
+      {
+        "claim": "Healthy‑O‑Me offers nutritionist‑approved meal plans and custom bowls in Pune",
+        "source": "https://healthyome.in"
+      },
+      {
+        "claim": "Market report highlights opportunities for personalized healthy meal delivery and tech adoption",
+        "source": "https://www.htfmarketintelligence.com/report/global-healthy-meal-delivery-services-market"
+      }
+    ]
+  },
+  "competitor_analysis": {
+    "competitor_list": [
+      {
+        "name": "Zanzanat Tiffin Service",
+        "product": "Tiffin delivery",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Recognized as a top tiffin service in Pune, offers variety of meals"
+        ],
+        "weaknesses": [
+          "Limited information on pricing and subscription options"
+        ],
+        "evidence": [
+          "\"Zanzanat Tiffin Service\" listed under top tiffin delivery services in Pune (IndiaOnline)"
+        ]
+      },
+      {
+        "name": "PHD Meals",
+        "product": "Healthy meal delivery",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Local presence in Wakad, Pune, focuses on healthy meals"
+        ],
+        "weaknesses": [
+          "No publicly disclosed pricing or subscription details"
+        ],
+        "evidence": [
+          "\"PHD Meals\" listed under top healthy meal delivery services in Pune (IndiaOnline)"
+        ]
+      },
+      {
+        "name": "Mealawe",
+        "product": "Home-cooked healthy food delivery",
+        "pricing": "Not publicly available",
+        "strengths": [
+          "Emphasizes healthy diet and convenience for busy professionals"
+        ],
+        "weaknesses": [
+          "Limited details on menu variety and pricing"
+        ],
+        "evidence": [
+          "Mealawe website describes service as \"home-cooked food delivery service\" for busy professionals (mealawe.com)"
+        ]
+      }
+    ],
+    "market_gaps": [
+      "Limited affordable calorie-controlled meal options for working professionals",
+      "Scarcity of subscription-based models tailored to office delivery",
+      "Insufficient focus on budget-friendly healthy meals in Pune"
+    ],
+    "competitive_risks": []
+  },
+  "persona_analysis": {
+    "personas": [
+      {
+        "name": "Rahul Sharma",
+        "role": "Software Engineer",
+        "business_type": "IT Company",
+        "goals": [
+          "Maintain healthy weight",
+          "Save time on meals"
+        ],
+        "pain_points": [
+          "Limited time to cook",
+          "Reliance on fast food"
+        ],
+        "needs": [
+          "Calorie-controlled meals",
+          "Affordable pricing"
+        ],
+        "willingness_to_pay": "Will pay up to ₹350 per meal for a 3-day subscription, estimating ₹1050 per week."
+      },
+      {
+        "name": "Priya Patel",
+        "role": "Marketing Manager",
+        "business_type": "Advertising Agency",
+        "goals": [
+          "Boost productivity",
+          "Stick to budget"
+        ],
+        "pain_points": [
+          "Scarcity of affordable healthy options",
+          "Difficulty maintaining calorie control"
+        ],
+        "needs": [
+          "Budget-friendly meal plans",
+          "Convenient office delivery"
+        ],
+        "willingness_to_pay": "Open to ₹400 per meal for a 4-day plan, roughly ₹1600 per week."
+      }
+    ]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "Affordable pricing model tailored to Pune professionals",
+      "Calorie‑controlled home‑style meals with subscription convenience",
+      "Potential partnership with local home cooks for authentic taste",
+      "Mobile app for ordering and nutrition tracking"
+    ],
+    "weaknesses": [
+      "Limited brand recognition in Pune",
+      "Dependence on local supply chain for fresh ingredients",
+      "Need for robust logistics to ensure timely delivery",
+      "Potential high operational costs for meal prep"
+    ],
+    "opportunities": [
+      "Growing health‑conscious workforce in Pune",
+      "Increasing demand for subscription meal services",
+      "Expansion to nearby Maharashtra regions",
+      "Leveraging mobile app for nutrition data insights"
+    ],
+    "threats": [
+      "Competition from established tiffin services with brand loyalty",
+      "Regulatory food safety compliance costs",
+      "Fluctuating ingredient prices",
+      "Potential shift in consumer preferences towards DIY meal kits"
+    ]
+  },
+  "pricing_analysis": {
+    "pricing_model": "Tiered Subscription",
+    "recommended_price": "₹1200 per week",
+    "pricing_tiers": [
+      {
+        "name": "Basic",
+        "price": "₹900 per week",
+        "target_customer": "Software Engineer",
+        "included_features": [
+          "3 meals per week",
+          "Calorie-controlled",
+          "Home-style",
+          "Free delivery"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "₹1200 per week",
+        "target_customer": "Marketing Manager",
+        "included_features": [
+          "4 meals per week",
+          "Calorie-controlled",
+          "Home-style",
+          "Free delivery",
+          "Customizable menu"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "₹1600 per week",
+        "target_customer": "Busy Professionals",
+        "included_features": [
+          "5 meals per week",
+          "Calorie-controlled",
+          "Home-style",
+          "Free delivery",
+          "Customizable menu",
+          "Priority support"
+        ]
+      }
+    ],
+    "pricing_rationale": [
+      "Aligns with willingness-to-pay data, offering affordable options for 3‑5 meals per week",
+      "Provides clear value differentiation across tiers to capture diverse budget segments"
+    ],
+    "pricing_risks": [
+      "High price sensitivity may limit adoption beyond the mid-tier",
+      "Uncertain operating costs could erode margins if delivery logistics scale"
+    ]
+  },
+  "mvp_analysis": {
+    "core_features": [
+      {
+        "name": "Simple web ordering interface",
+        "priority": 1
+      },
+      {
+        "name": "Subscription plan selection (weekly tier)",
+        "priority": 2
+      },
+      {
+        "name": "Calorie information display per meal",
+        "priority": 3
+      },
+      {
+        "name": "Delivery address and schedule input",
+        "priority": 4
+      },
+      {
+        "name": "Basic payment integration (UPI/credit)",
+        "priority": 5
+      }
+    ],
+    "future_features": [
+      {
+        "name": "Personalized meal plans",
+        "priority": 1
+      },
+      {
+        "name": "Nutrition tracking dashboard",
+        "priority": 2
+      },
+      {
+        "name": "Mobile app for ordering",
+        "priority": 3
+      }
+    ],
+    "excluded_features": [
+      {
+        "name": "Real-time delivery tracking",
+        "priority": 1
+      },
+      {
+        "name": "AI-based meal recommendation engine",
+        "priority": 2
+      },
+      {
+        "name": "Multi-cuisine menu expansion",
+        "priority": 3
+      }
+    ],
+    "development_priority": [
+      {
+        "name": "Web ordering interface",
+        "priority": 1
+      },
+      {
+        "name": "Subscription plan logic",
+        "priority": 2
+      },
+      {
+        "name": "Calorie info display",
+        "priority": 3
+      },
+      {
+        "name": "Delivery scheduling",
+        "priority": 4
+      },
+      {
+        "name": "Payment gateway integration",
+        "priority": 5
+      }
+    ],
+    "mvp_rationale": [
+      {
+        "reason": "Validates price sensitivity and willingness to pay ₹1200/week"
+      },
+      {
+        "reason": "Tests subscription model adoption among Pune professionals"
+      },
+      {
+        "reason": "Measures demand for calorie-controlled home-style meals"
+      }
+    ]
+  },
+  "idea_valid": true,
+  "idea_quality_message": "",
+  "evaluation": {
+    "market_demand": {
+      "score": 8,
+      "reason": "Strong relevant demand among Pune’s working professionals for affordable, calorie‑controlled meals.",
+      "evidence": [
+        {
+          "claim": "5 challenge by exploring what kind of entrepreneurs are less likely to acquire market information so that targeted support and services can be provided to enhance the market orientation of new ventures. Furthermore, by investigating how many resources allocated to acquire market information are optimal for new venture performance , this study sheds light on entrepreneurial marketing using the lean startup approach . 2. Theory and hypotheses Acquiring market information requires the investment...",
+          "source_title": "ssrn-5487630.pdf",
+          "source_type": "RAG research",
+          "page": "4",
+          "doi": "",
+          "source": "ssrn-5487630.pdf"
+        }
+      ]
+    },
+    "customer_need": {
+      "score": 8,
+      "reason": "Urgent, frequent problem of limited time and scarce affordable healthy options.",
+      "evidence": []
+    },
+    "competition": {
+      "score": 6,
+      "reason": "Some differentiation (calorie control, subscription) but significant competition from established tiffin services.",
+      "evidence": []
+    },
+    "business_potential": {
+      "score": 6,
+      "reason": "Recurring revenue model, but margins pressured by food and delivery costs; moderate scalability.",
+      "evidence": [
+        {
+          "claim": "3717 The concept of entrepreneurial opportunities: a review and… 6 Limitations and conclusion This review holistically overviews the concept of entrepreneurial opportunities and offers directions for future research. However, it also has some limitations. First, the review focuses on top-ranked journals from the fields of ‘General Business Studies’ and ‘Entrepreneurship’. Due to the sample composition, further theoreti- cal and empirical insights that might be found in lower ranked journals, in...",
+          "source_title": "The concept of entrepreneurial opportunities: a review and directions for future research",
+          "source_type": "RAG research",
+          "page": "18",
+          "doi": "10.1007/s11301-024-00466-5",
+          "source": "s11301-024-00466-5.pdf"
+        },
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ]
+    },
+    "pricing_potential": {
+      "score": 6,
+      "reason": "Customers willing to pay ₹900‑1200/week; realistic but limited margin potential.",
+      "evidence": [
+        {
+          "claim": "2) Pricing structure (pricing model, software, services, billing & metering system, SLA), 3) Price and value communication (marketing channels, price list, feature list, service list value, proposition), 4) Price policy and Sales mechanism 5) Price level [59] S5 Four pricing segments: 1) Pricing strategy: pricing goals, portfolio analysis, overall strategy, segment-specific strategy, 2) Price formulation: overall pricing and policies, segment-specific pricing and policies, pricing data and...",
+          "source_title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+          "source_type": "RAG research",
+          "page": "11",
+          "doi": "",
+          "source": "1-s2.0-S095058492100001X-main.pdf"
+        }
+      ]
+    },
+    "feasibility": {
+      "score": 5,
+      "reason": "Moderate operational risk: logistics, supply chain, regulatory compliance, capital for kitchen and delivery.",
+      "evidence": [
+        {
+          "claim": "implementation aspects, including market alignment, scalability, and resource allocation. For example, a participant proposing the launch of an eco-friendly fitness band detailed a go-to-market strategy involving production costs, demand for sustainable products, and leveraging government incentives. This structured strategy demonstrated depth by thoroughly addressing the execution ’ s financial, operational, and stra - tegic components. Innovation : Assessed by the originality of the proposed...",
+          "source_title": "Entrepreneurial decision-making in the age of AI: Sector knowledge at the balance of intuition and analysis",
+          "source_type": "RAG research",
+          "page": "6",
+          "doi": "10.1016/j.techsoc.2025.103200",
+          "source": "TiS_Cristofaro et al_2026.pdf"
+        }
+      ]
+    },
+    "mvp_clarity": {
+      "score": 8,
+      "reason": "Focused on core ordering, subscription, calorie info; clear and testable.",
+      "evidence": [
+        {
+          "claim": "startup proposals, to diffuse objections, and to call the visitors to action.  Wizard of Oz: an user interface that looks like a real working product, but the actual business process is manually carried on. The purpose of this MVP is to demonstrate the complete job done by the product.  Concierge MVP: a manual service that consists of exactly the same steps users would go through with the product.  Piecemeal MVP: similar to Wizards of Oz MVP, however, execution of the tasks is done by using...",
+          "source_title": "",
+          "source_type": "RAG research",
+          "page": "131",
+          "doi": "",
+          "source": "978-3-319-33515-5.pdf"
+        }
+      ]
+    }
+  },
+  "scoring_result": {
+    "weighted_scores": {
+      "market_demand": 16.0,
+      "customer_need": 16.0,
+      "competition": 9.0,
+      "business_potential": 9.0,
+      "pricing_potential": 6.0,
+      "feasibility": 5.0,
+      "mvp_clarity": 8.0
+    },
+    "overall_score": 69.0,
+    "verdict": "Moderate Potential"
+  }
+}
